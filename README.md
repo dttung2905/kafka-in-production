@@ -11,6 +11,34 @@ Curious to know how big companies are operating their kafka fleet in production?
 - **Why** certain approaches are adopted over others? :balance_scale:
 - **What** can we learn for our own use case?
 
+## Table of Contents
+
+1. [Adobe](#adobe)
+2. [Agoda](#agoda)
+3. [Airbnb](#airbnb)
+4. [Apple](#apple)
+5. [Appsflyer](#appsflyer)
+6. [Bloomberg](#bloomberg)
+7. [Bolt](#bolt)
+8. [Booking](#booking)
+9. [Brex](#brex)
+10. [CloudFlare](#cloudflare)
+11. [Coinbase](#coinbase)
+12. [Datadog](#datadog)
+13. [Deliveroo](#deliveroo)
+14. [Gojek](#gojek)
+15. [Grab](#grab)
+16. [LinkedIn](#linkedin)
+17. [Lyft](#lyft)
+18. [Netflix](#netflix)
+19. [Robinhood](#robinhood)
+20. [Slack](#slack)
+21. [Stripe](#stripe)
+22. [Uber](#uber)
+23. [Wise](#wise)
+24. [Wix](#wix)
+25. [Yelp](#yelp)
+26. [Zalando](#zalando)
 
 
 ## Adobe
@@ -122,6 +150,14 @@ Curious to know how big companies are operating their kafka fleet in production?
 ## Robinhood
 
 - [Tackling Kafka, with a Small Team](https://www.confluent.io/kafka-summit-san-francisco-2019/tackling-kafka-with-a-small-team/) - `2019` - :studio_microphone:
+
+## Slack
+
+- [Building Self-driving Kafka clusters using open source components](https://slack.engineering/building-self-driving-kafka-clusters-using-open-source-components/) - `2022` - :books:
+
+## Stripe
+
+- [6 Nines: How Stripe keeps Kafka highly-available across the globe](https://www.confluent.io/events/kafka-summit-london-2022/6-nines-how-stripe-keeps-kafka-highly-available-across-the-globe/) - `2022` - :studio_microphone:
 
 ## Uber
 
