@@ -20,26 +20,26 @@ Curious to know how big companies are operating their kafka fleet in production?
 5. [Appsflyer](#appsflyer)
 6. [Bloomberg](#bloomberg)
 7. [Bolt](#bolt)
-8. [Booking](#booking)
+8. [Booking.com](#bookingcom)
 9. [Brex](#brex)
-10. [CloudFlare](#cloudflare)
+10. [Cloudflare](#cloudflare)
 11. [Coinbase](#coinbase)
 12. [Datadog](#datadog)
 13. [Deliveroo](#deliveroo)
-14. [Gojek](#gojek)
+14. [GoTo](#goto)
 15. [Grab](#grab)
 16. [LinkedIn](#linkedin)
 17. [Lyft](#lyft)
 18. [Netflix](#netflix)
-19. [Robinhood](#robinhood)
-20. [Slack](#slack)
-21. [Stripe](#stripe)
-22. [Uber](#uber)
-23. [Wise](#wise)
-24. [Wix](#wix)
-25. [Yelp](#yelp)
-26. [Zalando](#zalando)
-
+19. [Pinterest](#pinterest)
+20. [Robinhood](#robinhood)
+21. [Slack](#slack)
+22. [Stripe](#stripe)
+23. [Uber](#uber)
+24. [Wise](#wise)
+25. [Wix](#wix)
+26. [Yelp](#yelp)
+27. [Zalando](#zalando)
 
 ## Adobe
 
@@ -146,6 +146,12 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [Inca — Message Tracing and Loss Detection For Streaming Data @Netflix](https://netflixtechblog.medium.com/inca-message-tracing-and-loss-detection-for-streaming-data-netflix-de4836fc38c9) - `2019` - :books:
 - [Evolution of the Netflix Data Pipeline](https://netflixtechblog.com/evolution-of-the-netflix-data-pipeline-da246ca36905) - `2016` - :books:
 - [Kafka Inside Keystone Pipeline](https://netflixtechblog.com/kafka-inside-keystone-pipeline-dd5aeabaf6bb) - `2016` - :books:
+
+## Pinterest
+
+- [Lessons Learned from Running Apache Kafka at Scale at Pinterest](https://www.confluent.io/blog/running-kafka-at-scale-at-pinterest/) - `2021` - :books:
+- [How Pinterest runs Kafka at scale](https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be) - `2018` - :books:
+- [Open sourcing DoctorKafka: Kafka cluster healing and workload balancing](https://medium.com/pinterest-engineering/open-sourcing-doctorkafka-kafka-cluster-healing-and-workload-balancing-e51ad25b6b17) - `2017` - :books:
 
 ## Robinhood
 
