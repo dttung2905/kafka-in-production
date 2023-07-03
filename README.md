@@ -20,7 +20,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 5. [Appsflyer](#appsflyer)
 6. [Bloomberg](#bloomberg)
 7. [Bolt](#bolt)
-8. [Booking.com](#booking.com)
+8. [Booking.com](#bookingcom)
 9. [Brex](#brex)
 10. [Cloudflare](#cloudflare)
 11. [Coinbase](#coinbase)
