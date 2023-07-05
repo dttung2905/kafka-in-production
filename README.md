@@ -28,18 +28,19 @@ Curious to know how big companies are operating their kafka fleet in production?
 13. [Deliveroo](#deliveroo)
 14. [GoTo](#goto)
 15. [Grab](#grab)
-16. [LinkedIn](#linkedin)
-17. [Lyft](#lyft)
-18. [Netflix](#netflix)
-19. [Pinterest](#pinterest)
-20. [Robinhood](#robinhood)
-21. [Slack](#slack)
-22. [Stripe](#stripe)
-23. [Uber](#uber)
-24. [Wise](#wise)
-25. [Wix](#wix)
-26. [Yelp](#yelp)
-27. [Zalando](#zalando)
+16. [Honeycomb](#honeycomb)
+17. [LinkedIn](#linkedin)
+18. [Lyft](#lyft)
+19. [Netflix](#netflix)
+20. [Pinterest](#pinterest)
+21. [Robinhood](#robinhood)
+22. [Slack](#slack)
+23. [Stripe](#stripe)
+24. [Uber](#uber)
+25. [Wise](#wise)
+26. [Wix](#wix)
+27. [Yelp](#yelp)
+28. [Zalando](#zalando)
 
 ## Adobe
 
@@ -121,6 +122,13 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [Exposing a Kafka Cluster via a VPC Endpoint Service](https://engineering.grab.com/exposing-kafka-cluster) - `2022` - :books:
 - [Detect Fraud Successfully with GrabDefence!](https://www.confluent.io/events/kafka-summit-apac-2021/detect-fraud-successfully-with-grabdefence/) - `2021` - :studio_microphone:
 - [Optimally Scaling Kafka Consumer Applications](https://engineering.grab.com/optimally-scaling-kafka-consumer-applications) - `2020` - :books:
+
+## Honeycomb
+
+- [Scaling Telemetry Systems with Streaming](https://www.usenix.org/conference/srecon23americas/presentation/fong-jones) - `2023` - :studio_microphone:
+- [Lessons Learned From the Migration to Confluent Kafka](https://www.honeycomb.io/blog/kafka-migration-lessons-learned) - `2021` - :books:
+- [Scaling Kafka at Honeycomb](https://www.honeycomb.io/blog/scaling-kafka-observability-pipelines) - `2021` - :books:
+- [Bitten by a Kafka Bug - Postmortem](https://www.honeycomb.io/blog/bitten-by-a-kafka-bug-postmortem) - `2019` - :books:
 
 ## LinkedIn
 
