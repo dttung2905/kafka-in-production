@@ -35,14 +35,15 @@ Curious to know how big companies are operating their kafka fleet in production?
 20. [Netflix](#netflix)
 21. [Pinterest](#pinterest)
 22. [Robinhood](#robinhood)
-23. [Slack](#slack)
-24. [Stripe](#stripe)
-25. [Uber](#uber)
-26. [Wise](#wise)
-27. [Wix](#wix)
-28. [Yelp](#yelp)
-29. [Zalando](#zalando)
-30. [Zopa Bank](#zopa-bank)
+23. [Riskified](#riskified)
+24. [Slack](#slack)
+25. [Stripe](#stripe)
+26. [Uber](#uber)
+27. [Wise](#wise)
+28. [Wix](#wix)
+29. [Yelp](#yelp)
+30. [Zalando](#zalando)
+31. [Zopa Bank](#zopa-bank)
 
 ## Adobe
 
@@ -68,9 +69,11 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [Experiences Operating Apache Kafka® at Scale](https://www.confluent.io/kafka-summit-ny19/experiences-operating-apache-kafka-at-scale/) - `2019` - :studio_microphone:
 - [Kafka as a Service A Tale of Security and Multi Tenancy](https://www.confluent.io/blog/rounding-up-kafka-summit-london-2018/) - `2018` - :studio_microphone:
 
-## Appsflyer
+## AppsFlyer
 
 - [Kafka Lag Monitoring For Human Beings](https://www.confluent.io/resources/kafka-summit-2020/kafka-lag-monitoring-for-human-beings/) - `2020` - :studio_microphone:
+- [Apache Kafka Lag Monitoring at AppsFlyer](https://www.confluent.io/blog/kafka-lag-monitoring-and-metrics-at-appsflyer/) - `2020` - :books:
+- [Managing your Kafka in an explosive growth environment](https://www.youtube.com/watch?v=tjjeaCtsw_M) - `2019` - :studio_microphone:
 
 ## Bloomberg
 
@@ -172,6 +175,15 @@ Curious to know how big companies are operating their kafka fleet in production?
 ## Robinhood
 
 - [Tackling Kafka, with a Small Team](https://www.confluent.io/kafka-summit-san-francisco-2019/tackling-kafka-with-a-small-team/) - `2019` - :studio_microphone:
+
+## Riskified
+
+- [How to Manage Schemas and Handle Standardization](https://medium.com/riskified-technology/how-riskified-manages-schemas-and-handles-standardization-fda9eb236e28) - `2023` - :books:
+- [How to Roll Your Kafka Cluster With Zero Downtime and No Data Loss](https://medium.com/riskified-technology/how-to-roll-your-kafka-cluster-with-zero-downtime-and-no-data-loss-770fd0a35971) - `2023` - :books:
+- [Know Your Limits: Cluster Benchmarks](https://medium.com/riskified-technology/know-your-limits-cluster-benchmarks-ecc6c3c77574) - `2022` - :books:
+- [Let’s Make Your CFO Happy; A Practical Guide for Kafka Cost Reduction](https://www.confluent.io/en-gb/events/kafka-summit-london-2022/lets-make-your-cfo-happy-a-practical-guide-for-kafka-cost-reduction/) - `2022` - :studio_microphone:
+- [From AWS CloudFormation to Terraform: Migrating Apache Kafka](https://medium.com/riskified-technology/from-aws-cloudformation-to-terraform-migrating-apache-kafka-32bdabdbaa59) - `2021` - :books:
+
 
 ## Slack
 
