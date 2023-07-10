@@ -69,8 +69,9 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [Experiences Operating Apache Kafka® at Scale](https://www.confluent.io/kafka-summit-ny19/experiences-operating-apache-kafka-at-scale/) - `2019` - :studio_microphone:
 - [Kafka as a Service A Tale of Security and Multi Tenancy](https://www.confluent.io/blog/rounding-up-kafka-summit-london-2018/) - `2018` - :studio_microphone:
 
-## Appsflyer
+## AppsFlyer
 
+- [Four Crucial Steps to Take Before Changing Kafka Partition Key at Scale](https://medium.com/appsflyerengineering/four-crucial-steps-to-take-before-changing-kafka-partition-key-at-scale-3c2e553c73b2) - `2023` - :books:
 - [Kafka Lag Monitoring For Human Beings](https://www.confluent.io/resources/kafka-summit-2020/kafka-lag-monitoring-for-human-beings/) - `2020` - :studio_microphone:
 
 ## Bloomberg
