@@ -24,25 +24,26 @@ Curious to know how big companies are operating their kafka fleet in production?
 9. [Brex](#brex)
 10. [Cloudflare](#cloudflare)
 11. [Coinbase](#coinbase)
-12. [Datadog](#datadog)
-13. [Deliveroo](#deliveroo)
-14. [GoTo](#goto)
-15. [Grab](#grab)
-16. [Honeycomb](#honeycomb)
-17. [LinkedIn](#linkedin)
-18. [Lyft](#lyft)
-19. [Morgan Stanley](#morgan-stanley)
-20. [Netflix](#netflix)
-21. [Pinterest](#pinterest)
-22. [Robinhood](#robinhood)
-23. [Slack](#slack)
-24. [Stripe](#stripe)
-25. [Uber](#uber)
-26. [Wise](#wise)
-27. [Wix](#wix)
-28. [Yelp](#yelp)
-29. [Zalando](#zalando)
-30. [Zopa Bank](#zopa-bank)
+12. [Criteo](#criteo)
+13. [Datadog](#datadog)
+14. [Deliveroo](#deliveroo)
+15. [GoTo](#goto)
+16. [Grab](#grab)
+17. [Honeycomb](#honeycomb)
+18. [LinkedIn](#linkedin)
+19. [Lyft](#lyft)
+20. [Morgan Stanley](#morgan-stanley)
+21. [Netflix](#netflix)
+22. [Pinterest](#pinterest)
+23. [Robinhood](#robinhood)
+24. [Slack](#slack)
+25. [Stripe](#stripe)
+26. [Uber](#uber)
+27. [Wise](#wise)
+28. [Wix](#wix)
+29. [Yelp](#yelp)
+30. [Zalando](#zalando)
+31. [Zopa Bank](#zopa-bank)
 
 ## Adobe
 
@@ -99,6 +100,12 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 - [Kafka infrastructure renovation at Coinbase](https://www.coinbase.com/blog/kafka-infrastructure-renovation) - `2022` - :books:
 - [How we scaled data streaming at Coinbase using AWS MSK](https://www.coinbase.com/blog/how-we-scaled-data-streaming-at-coinbase-using-aws-msk) - `2021` - :books:
+
+## Criteo
+
+- [Managing Kafka and Data Streams at Criteo](https://medium.com/criteo-engineering/managing-kafka-and-data-streams-at-criteo-566ffbfda6ba) - `2023` - :books:
+- [Upgrading Kafka on a large infra, or: when moving at scale requires careful planning](https://medium.com/criteo-engineering/upgrading-kafka-on-a-large-infra-3ee99f56e970) - `2019` - :books:
+- [How Criteo is managing one of the largest Kafka Infrastructure in Europe](https://www.slideshare.net/RicardoPaiva17/how-criteo-is-managing-one-of-the-largest-kafka-infrastructure-in-europe) - `2019` - :books:
 
 ## Datadog
 
