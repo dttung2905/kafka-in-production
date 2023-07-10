@@ -17,7 +17,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 2. [Agoda](#agoda)
 3. [Airbnb](#airbnb)
 4. [Apple](#apple)
-5. [Appsflyer](#appsflyer)
+5. [AppsFlyer](#appsflyer)
 6. [Bloomberg](#bloomberg)
 7. [Bolt](#bolt)
 8. [Booking.com](#bookingcom)
