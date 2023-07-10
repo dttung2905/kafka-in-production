@@ -103,6 +103,8 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## Criteo
 
+- [Upgrading Kafka on a large infra, or: when moving at scale requires careful planning](https://medium.com/criteo-engineering/upgrading-kafka-on-a-large-infra-3ee99f56e970) - `2019` - :books:
+- [How Criteo is managing one of the largest Kafka Infrastructure in Europe](https://www.slideshare.net/RicardoPaiva17/how-criteo-is-managing-one-of-the-largest-kafka-infrastructure-in-europe) - `2019` - :books:
 - [Managing Kafka and Data Streams at Criteo](https://medium.com/criteo-engineering/managing-kafka-and-data-streams-at-criteo-566ffbfda6ba) - `2023` - :books:
 
 ## Datadog
