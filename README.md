@@ -46,6 +46,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 31. [Zalando](#zalando)
 32. [Zopa Bank](#zopa-bank)
 
+
 ## Adobe
 
 - [How Adobe Experience Platform Pipeline Became the Cornerstone of In-Flight Processing for Adobe](https://blog.developer.adobe.com/how-adobe-experience-platform-pipeline-became-the-cornerstone-of-in-flight-processing-for-adobe-51c0e0a91521) - `2019` - :books:
