@@ -17,7 +17,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 2. [Agoda](#agoda)
 3. [Airbnb](#airbnb)
 4. [Apple](#apple)
-5. [Appsflyer](#appsflyer)
+5. [AppsFlyer](#appsflyer)
 6. [Bloomberg](#bloomberg)
 7. [Bolt](#bolt)
 8. [Booking.com](#bookingcom)
@@ -34,8 +34,8 @@ Curious to know how big companies are operating their kafka fleet in production?
 19. [Morgan Stanley](#morgan-stanley)
 20. [Netflix](#netflix)
 21. [Pinterest](#pinterest)
-22. [Robinhood](#robinhood)
-23. [Riskified](#riskified)
+22. [Riskified](#riskified)
+23. [Robinhood](#robinhood)
 24. [Slack](#slack)
 25. [Stripe](#stripe)
 26. [Uber](#uber)
@@ -172,10 +172,6 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [How Pinterest runs Kafka at scale](https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be) - `2018` - :books:
 - [Open sourcing DoctorKafka: Kafka cluster healing and workload balancing](https://medium.com/pinterest-engineering/open-sourcing-doctorkafka-kafka-cluster-healing-and-workload-balancing-e51ad25b6b17) - `2017` - :books:
 
-## Robinhood
-
-- [Tackling Kafka, with a Small Team](https://www.confluent.io/kafka-summit-san-francisco-2019/tackling-kafka-with-a-small-team/) - `2019` - :studio_microphone:
-
 ## Riskified
 
 - [How to Manage Schemas and Handle Standardization](https://medium.com/riskified-technology/how-riskified-manages-schemas-and-handles-standardization-fda9eb236e28) - `2023` - :books:
@@ -184,6 +180,9 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [Let’s Make Your CFO Happy; A Practical Guide for Kafka Cost Reduction](https://www.confluent.io/en-gb/events/kafka-summit-london-2022/lets-make-your-cfo-happy-a-practical-guide-for-kafka-cost-reduction/) - `2022` - :studio_microphone:
 - [From AWS CloudFormation to Terraform: Migrating Apache Kafka](https://medium.com/riskified-technology/from-aws-cloudformation-to-terraform-migrating-apache-kafka-32bdabdbaa59) - `2021` - :books:
 
+## Robinhood
+
+- [Tackling Kafka, with a Small Team](https://www.confluent.io/kafka-summit-san-francisco-2019/tackling-kafka-with-a-small-team/) - `2019` - :studio_microphone:
 
 ## Slack
 
