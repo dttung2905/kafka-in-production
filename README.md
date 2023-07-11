@@ -24,26 +24,27 @@ Curious to know how big companies are operating their kafka fleet in production?
 9. [Brex](#brex)
 10. [Cloudflare](#cloudflare)
 11. [Coinbase](#coinbase)
-12. [Datadog](#datadog)
-13. [Deliveroo](#deliveroo)
-14. [GoTo](#goto)
-15. [Grab](#grab)
-16. [Honeycomb](#honeycomb)
-17. [LinkedIn](#linkedin)
-18. [Lyft](#lyft)
-19. [Morgan Stanley](#morgan-stanley)
-20. [Netflix](#netflix)
-21. [Pinterest](#pinterest)
-22. [Riskified](#riskified)
-23. [Robinhood](#robinhood)
-24. [Slack](#slack)
-25. [Stripe](#stripe)
-26. [Uber](#uber)
-27. [Wise](#wise)
-28. [Wix](#wix)
-29. [Yelp](#yelp)
-30. [Zalando](#zalando)
-31. [Zopa Bank](#zopa-bank)
+12. [Criteo](#criteo)
+13. [Datadog](#datadog)
+14. [Deliveroo](#deliveroo)
+15. [GoTo](#goto)
+16. [Grab](#grab)
+17. [Honeycomb](#honeycomb)
+18. [LinkedIn](#linkedin)
+19. [Lyft](#lyft)
+20. [Morgan Stanley](#morgan-stanley)
+21. [Netflix](#netflix)
+22. [Pinterest](#pinterest)
+23. [Riskified](#riskified)
+24. [Robinhood](#robinhood)
+25. [Slack](#slack)
+26. [Stripe](#stripe)
+27. [Uber](#uber)
+28. [Wise](#wise)
+29. [Wix](#wix)
+30. [Yelp](#yelp)
+31. [Zalando](#zalando)
+32. [Zopa Bank](#zopa-bank)
 
 ## Adobe
 
@@ -70,7 +71,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [Kafka as a Service A Tale of Security and Multi Tenancy](https://www.confluent.io/blog/rounding-up-kafka-summit-london-2018/) - `2018` - :studio_microphone:
 
 ## AppsFlyer
-
+- [Four Crucial Steps to Take Before Changing Kafka Partition Key at Scale](https://medium.com/appsflyerengineering/four-crucial-steps-to-take-before-changing-kafka-partition-key-at-scale-3c2e553c73b2) - `2023` - :books:
 - [Kafka Lag Monitoring For Human Beings](https://www.confluent.io/resources/kafka-summit-2020/kafka-lag-monitoring-for-human-beings/) - `2020` - :studio_microphone:
 - [Apache Kafka Lag Monitoring at AppsFlyer](https://www.confluent.io/blog/kafka-lag-monitoring-and-metrics-at-appsflyer/) - `2020` - :books:
 - [Managing your Kafka in an explosive growth environment](https://www.youtube.com/watch?v=tjjeaCtsw_M) - `2019` - :studio_microphone:
@@ -102,6 +103,12 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 - [Kafka infrastructure renovation at Coinbase](https://www.coinbase.com/blog/kafka-infrastructure-renovation) - `2022` - :books:
 - [How we scaled data streaming at Coinbase using AWS MSK](https://www.coinbase.com/blog/how-we-scaled-data-streaming-at-coinbase-using-aws-msk) - `2021` - :books:
+
+## Criteo
+
+- [Managing Kafka and Data Streams at Criteo](https://medium.com/criteo-engineering/managing-kafka-and-data-streams-at-criteo-566ffbfda6ba) - `2023` - :books:
+- [Upgrading Kafka on a large infra, or: when moving at scale requires careful planning](https://medium.com/criteo-engineering/upgrading-kafka-on-a-large-infra-3ee99f56e970) - `2019` - :books:
+- [How Criteo is managing one of the largest Kafka Infrastructure in Europe](https://www.slideshare.net/RicardoPaiva17/how-criteo-is-managing-one-of-the-largest-kafka-infrastructure-in-europe) - `2019` - :books:
 
 ## Datadog
 
@@ -239,4 +246,3 @@ Curious to know how big companies are operating their kafka fleet in production?
 ## Zopa Bank
 
 - [Highly Available Kafka Consumers and Kafka Streams on Kubernetes](https://www.confluent.io/events/kafka-summit-london-2023/highly-available-kafka-consumers-and-kafka-streams-on-kubernetes/) - `2023` - :studio_microphone:
-
