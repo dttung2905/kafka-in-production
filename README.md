@@ -37,14 +37,15 @@ Curious to know how big companies are operating their kafka fleet in production?
 22. [Pinterest](#pinterest)
 23. [Riskified](#riskified)
 24. [Robinhood](#robinhood)
-25. [Slack](#slack)
-26. [Stripe](#stripe)
-27. [Uber](#uber)
-28. [Wise](#wise)
-29. [Wix](#wix)
-30. [Yelp](#yelp)
-31. [Zalando](#zalando)
-32. [Zopa Bank](#zopa-bank)
+25. [Shopify](#shopify)
+26. [Slack](#slack)
+27. [Stripe](#stripe)
+28. [Uber](#uber)
+29. [Wise](#wise)
+30. [Wix](#wix)
+31. [Yelp](#yelp)
+32. [Zalando](#zalando)
+33. [Zopa Bank](#zopa-bank)
 
 
 ## Adobe
@@ -191,6 +192,12 @@ Curious to know how big companies are operating their kafka fleet in production?
 ## Robinhood
 
 - [Tackling Kafka, with a Small Team](https://www.confluent.io/kafka-summit-san-francisco-2019/tackling-kafka-with-a-small-team/) - `2019` - :studio_microphone:
+
+## Shopify
+
+- [Capturing Every Change From Shopify’s Sharded Monolith](https://shopify.engineering/capturing-every-change-shopify-sharded-monolith) - `2021` - :books:
+- [Running Apache Kafka on Kubernetes at Shopify](https://shopify.engineering/running-apache-kafka-on-kubernetes-at-shopify) - `2018` - :books:
+- [Kafka Producer Pipeline for Ruby on Rails](https://shopify.engineering/kafka-producer-pipeline-for-ruby-on-rails) - `2014` - :books:
 
 ## Slack
 
