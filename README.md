@@ -14,39 +14,39 @@ Curious to know how big companies are operating their kafka fleet in production?
 ## Table of Contents
 
 1. [Adobe](#adobe)
-2. [Agoda](#agoda)
-3. [Airbnb](#airbnb)
-4. [Apple](#apple)
-5. [AppsFlyer](#appsflyer)
-6. [Bloomberg](#bloomberg)
-7. [Bolt](#bolt)
-8. [Booking.com](#bookingcom)
-9. [Brex](#brex)
-10. [Cloudflare](#cloudflare)
-11. [Coinbase](#coinbase)
-12. [Criteo](#criteo)
-13. [Datadog](#datadog)
-14. [Deliveroo](#deliveroo)
-15. [GoTo](#goto)
-16. [Grab](#grab)
-17. [Honeycomb](#honeycomb)
-18. [LinkedIn](#linkedin)
-19. [Lyft](#lyft)
-20. [Morgan Stanley](#morgan-stanley)
-21. [Netflix](#netflix)
-22. [Pinterest](#pinterest)
-23. [Riskified](#riskified)
-24. [Robinhood](#robinhood)
-25. [Shopify](#shopify)
-26. [Slack](#slack)
-27. [Stripe](#stripe)
-28. [Uber](#uber)
-29. [Wise](#wise)
-30. [Wix](#wix)
-31. [Yelp](#yelp)
-32. [Zalando](#zalando)
-33. [Zopa Bank](#zopa-bank)
-
+1. [Agoda](#agoda)
+1. [Airbnb](#airbnb)
+1. [Apple](#apple)
+1. [AppsFlyer](#appsflyer)
+1. [Bloomberg](#bloomberg)
+1. [Bolt](#bolt)
+1. [Booking.com](#bookingcom)
+1. [Brex](#brex)
+1. [Cloudflare](#cloudflare)
+1. [Coinbase](#coinbase)
+1. [Criteo](#criteo)
+1. [Datadog](#datadog)
+1. [Deliveroo](#deliveroo)
+1. [GoTo](#goto)
+1. [Grab](#grab)
+1. [Honeycomb](#honeycomb)
+1. [Hubspot](#hubspot)
+1. [LinkedIn](#linkedin)
+1. [Lyft](#lyft)
+1. [Morgan Stanley](#morgan-stanley)
+1. [Netflix](#netflix)
+1. [Pinterest](#pinterest)
+1. [Riskified](#riskified)
+1. [Robinhood](#robinhood)
+1. [Shopify](#shopify)
+1. [Slack](#slack)
+1. [Stripe](#stripe)
+1. [Uber](#uber)
+1. [Wise](#wise)
+1. [Wix](#wix)
+1. [Yelp](#yelp)
+1. [Zalando](#zalando)
+1. [Zopa Bank](#zopa-bank)
 
 ## Adobe
 
@@ -137,6 +137,10 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [Exposing a Kafka Cluster via a VPC Endpoint Service](https://engineering.grab.com/exposing-kafka-cluster) - `2022` - :books:
 - [Detect Fraud Successfully with GrabDefence!](https://www.confluent.io/events/kafka-summit-apac-2021/detect-fraud-successfully-with-grabdefence/) - `2021` - :studio_microphone:
 - [Optimally Scaling Kafka Consumer Applications](https://engineering.grab.com/optimally-scaling-kafka-consumer-applications) - `2020` - :books:
+
+## Hubspot
+
+- [Our Journey to Multi-Region: Supporting Cross-Region Kafka Messaging](https://product.hubspot.com/blog/kafka-aggregation) - `2022` - :books:
 
 ## Honeycomb
 
