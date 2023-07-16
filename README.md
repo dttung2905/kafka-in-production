@@ -30,22 +30,23 @@ Curious to know how big companies are operating their kafka fleet in production?
 15. [GoTo](#goto)
 16. [Grab](#grab)
 17. [Honeycomb](#honeycomb)
-18. [LinkedIn](#linkedin)
-19. [Lyft](#lyft)
-20. [Morgan Stanley](#morgan-stanley)
-21. [Netflix](#netflix)
-22. [Pinterest](#pinterest)
-23. [Riskified](#riskified)
-24. [Robinhood](#robinhood)
-25. [Shopify](#shopify)
-26. [Slack](#slack)
-27. [Stripe](#stripe)
-28. [Uber](#uber)
-29. [Wise](#wise)
-30. [Wix](#wix)
-31. [Yelp](#yelp)
-32. [Zalando](#zalando)
-33. [Zopa Bank](#zopa-bank)
+18. [Hubspot](#hubspot)
+19. [LinkedIn](#linkedin)
+20. [Lyft](#lyft)
+21. [Morgan Stanley](#morgan-stanley)
+22. [Netflix](#netflix)
+23. [Pinterest](#pinterest)
+24. [Riskified](#riskified)
+25. [Robinhood](#robinhood)
+26. [Shopify](#shopify)
+27. [Slack](#slack)
+28. [Stripe](#stripe)
+29. [Uber](#uber)
+30. [Wise](#wise)
+31. [Wix](#wix)
+32. [Yelp](#yelp)
+33. [Zalando](#zalando)
+34. [Zopa Bank](#zopa-bank)
 
 
 ## Adobe
@@ -137,6 +138,10 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [Exposing a Kafka Cluster via a VPC Endpoint Service](https://engineering.grab.com/exposing-kafka-cluster) - `2022` - :books:
 - [Detect Fraud Successfully with GrabDefence!](https://www.confluent.io/events/kafka-summit-apac-2021/detect-fraud-successfully-with-grabdefence/) - `2021` - :studio_microphone:
 - [Optimally Scaling Kafka Consumer Applications](https://engineering.grab.com/optimally-scaling-kafka-consumer-applications) - `2020` - :books:
+
+## Hubspot
+
+- [Our Journey to Multi-Region: Supporting Cross-Region Kafka Messaging](https://product.hubspot.com/blog/kafka-aggregation) - `2022` - :books:
 
 ## Honeycomb
 
