@@ -18,6 +18,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 1. [Airbnb](#airbnb)
 1. [Apple](#apple)
 1. [AppsFlyer](#appsflyer)
+1. [Bitpanda](#bitpanda)
 1. [Bloomberg](#bloomberg)
 1. [Bolt](#bolt)
 1. [Booking.com](#bookingcom)
@@ -77,6 +78,10 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [Kafka Lag Monitoring For Human Beings](https://www.confluent.io/resources/kafka-summit-2020/kafka-lag-monitoring-for-human-beings/) - `2020` - :studio_microphone:
 - [Apache Kafka Lag Monitoring at AppsFlyer](https://www.confluent.io/blog/kafka-lag-monitoring-and-metrics-at-appsflyer/) - `2020` - :books:
 - [Managing your Kafka in an explosive growth environment](https://www.youtube.com/watch?v=tjjeaCtsw_M) - `2019` - :studio_microphone:
+
+## Bitpanda
+
+- [Bitpanda's new trade engine - Part #1 - asynchronous trading leveraging Kafka](https://blog.bitpanda.com/en/bitpandas-new-trade-engine-part-1) - `2023` - :books:
 
 ## Bloomberg
 
