@@ -177,11 +177,11 @@ Curious to know how big companies are operating their kafka fleet in production?
 ## Michelin
 
 - [From Monolithic Orchestrator to Streaming with Microservices](https://www.confluent.io/events/kafka-summit-london-2023/from-monolithic-orchestrator-to-streaming-with-microservices/) - `2023` - :studio_microphone:
-- [Moving from orchestration to choregraphy - Part 1](https://blogit.michelin.io/choregraphy-or-orchestration-thats-the-question/) - `2021` - :books:
-- [Moving from orchestration to choregraphy - Part 2](https://blogit.michelin.io/moving-from-orchestration-to-choregraphy-part-2/) - `2021` - :books:
-- [Moving from orchestration to choregraphy - Part 3](https://blogit.michelin.io/moving-from-orchestration-to-choregraphy-part-3/) - `2022` - :books:
-- [The Michelin Guide: an unexpected event driven use case](https://blogit.michelin.io/the-michelin-guide-an-unexpected-event-driven-use-case/) - `2022` - :books:
 - [Migrate Applications from Kafka On-Premise to Confluent Cloud](https://blogit.michelin.io/migrate-your-applications-from-kafka-onprem-to-a-manage-service/) - `2022` - :books:
+- [The Michelin Guide: an unexpected event driven use case](https://blogit.michelin.io/the-michelin-guide-an-unexpected-event-driven-use-case/) - `2022` - :books:
+- [Moving from orchestration to choregraphy - Part 3](https://blogit.michelin.io/moving-from-orchestration-to-choreography-part-3/) - `2022` - :books:
+- [Moving from orchestration to choregraphy - Part 2](https://blogit.michelin.io/moving-from-orchestration-to-choregraphy-part-2/) - `2021` - :books:
+- [Moving from orchestration to choregraphy - Part 1](https://blogit.michelin.io/choregraphy-or-orchestration-thats-the-question/) - `2021` - :books:
 - [“The metamorphose” of our Information System by Implementing a distributed event streaming platform](https://blogit.michelin.io/the-metamorphose-of-our-information-system-by-implementing-a-distributed-event-streaming-platform/) - `2021` - :books:
 
 ## Morgan Stanley
