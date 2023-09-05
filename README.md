@@ -34,6 +34,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 1. [Hubspot](#hubspot)
 1. [LinkedIn](#linkedin)
 1. [Lyft](#lyft)
+1. [Michelin](#Michelin)
 1. [Morgan Stanley](#morgan-stanley)
 1. [Netflix](#netflix)
 1. [Pinterest](#pinterest)
@@ -172,6 +173,16 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [Operating Apache Kafka Clusters 24/7 Without A Global Ops Team](https://eng.lyft.com/operating-apache-kafka-clusters-24-7-without-a-global-ops-team-417813a5ce70) - `2019` - :books:
 - [Bulletproof Apache Kafka® with Fault Tree Analysis](https://www.confluent.io/kafka-summit-ny19/bulletproof-kafka-with-fault-tree-analysis/) - `2019` - :studio_microphone:
 - [Production Ready Kafka on Kubernetes](https://www.confluent.io/kafka-summit-san-francisco-2019/production-ready-kafka-on-kubernetes/) - `2019` - :studio_microphone:
+
+## Michelin
+
+- [From Monolithic Orchestrator to Streaming with Microservices](https://www.confluent.io/events/kafka-summit-london-2023/from-monolithic-orchestrator-to-streaming-with-microservices/) - `2023` - :studio_microphone:
+- [Migrate Applications from Kafka On-Premise to Confluent Cloud](https://blogit.michelin.io/migrate-your-applications-from-kafka-onprem-to-a-manage-service/) - `2022` - :books:
+- [The Michelin Guide: an unexpected event driven use case](https://blogit.michelin.io/the-michelin-guide-an-unexpected-event-driven-use-case/) - `2022` - :books:
+- [Moving from orchestration to choregraphy - Part 3](https://blogit.michelin.io/moving-from-orchestration-to-choreography-part-3/) - `2022` - :books:
+- [Moving from orchestration to choregraphy - Part 2](https://blogit.michelin.io/moving-from-orchestration-to-choregraphy-part-2/) - `2021` - :books:
+- [Moving from orchestration to choregraphy - Part 1](https://blogit.michelin.io/choregraphy-or-orchestration-thats-the-question/) - `2021` - :books:
+- [“The metamorphose” of our Information System by Implementing a distributed event streaming platform](https://blogit.michelin.io/the-metamorphose-of-our-information-system-by-implementing-a-distributed-event-streaming-platform/) - `2021` - :books:
 
 ## Morgan Stanley
 
