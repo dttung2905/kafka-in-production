@@ -37,6 +37,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 1. [Michelin](#Michelin)
 1. [Morgan Stanley](#morgan-stanley)
 1. [Netflix](#netflix)
+1. [PayPal](#PayPal)
 1. [Pinterest](#pinterest)
 1. [Riskified](#riskified)
 1. [Robinhood](#robinhood)
@@ -194,6 +195,12 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [Inca — Message Tracing and Loss Detection For Streaming Data @Netflix](https://netflixtechblog.medium.com/inca-message-tracing-and-loss-detection-for-streaming-data-netflix-de4836fc38c9) - `2019` - :books:
 - [Evolution of the Netflix Data Pipeline](https://netflixtechblog.com/evolution-of-the-netflix-data-pipeline-da246ca36905) - `2016` - :books:
 - [Kafka Inside Keystone Pipeline](https://netflixtechblog.com/kafka-inside-keystone-pipeline-dd5aeabaf6bb) - `2016` - :books:
+
+## Paypal
+
+- [Scaling Kafka to Support PayPal’s Data Growth](https://medium.com/paypal-tech/scaling-kafka-to-support-paypals-data-growth-a0b4da420fab) - `2023` - :books:
+- [Scaling Kafka Consumer for Billions of Events](https://medium.com/paypal-tech/kafka-consumer-benchmarking-c726fbe4000) - `2021` - :books:
+- [Marching Toward a Trillion Kafka Messages per Day: Running Kafka at scale at PayPal](https://www.confluent.io/resources/kafka-summit-2020/marching-toward-a-trillion-kafka-messages-per-day-running-kafka-at-scale-at-paypal/) - `2020` - :studio_microphone:
 
 ## Pinterest
 
