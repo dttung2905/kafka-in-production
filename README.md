@@ -18,6 +18,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 1. [Airbnb](#airbnb)
 1. [Apple](#apple)
 1. [AppsFlyer](#appsflyer)
+1. [BigCommerce](#bigcommerce)
 1. [Bitpanda](#bitpanda)
 1. [Bloomberg](#bloomberg)
 1. [Bolt](#bolt)
@@ -32,13 +33,16 @@ Curious to know how big companies are operating their kafka fleet in production?
 1. [Grab](#grab)
 1. [Honeycomb](#honeycomb)
 1. [Hubspot](#hubspot)
+1. [Indeed](#indeed)
 1. [LinkedIn](#linkedin)
 1. [Lyft](#lyft)
 1. [Michelin](#Michelin)
 1. [Morgan Stanley](#morgan-stanley)
 1. [Netflix](#netflix)
+1. [New Relic](#new-relic)
 1. [PayPal](#PayPal)
 1. [Pinterest](#pinterest)
+1. [Platformatory](#platformatory)
 1. [Riskified](#riskified)
 1. [Robinhood](#robinhood)
 1. [Shopify](#shopify)
@@ -76,10 +80,15 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [Kafka as a Service A Tale of Security and Multi Tenancy](https://www.confluent.io/blog/rounding-up-kafka-summit-london-2018/) - `2018` - :studio_microphone:
 
 ## AppsFlyer
+
 - [Four Crucial Steps to Take Before Changing Kafka Partition Key at Scale](https://medium.com/appsflyerengineering/four-crucial-steps-to-take-before-changing-kafka-partition-key-at-scale-3c2e553c73b2) - `2023` - :books:
 - [Kafka Lag Monitoring For Human Beings](https://www.confluent.io/resources/kafka-summit-2020/kafka-lag-monitoring-for-human-beings/) - `2020` - :studio_microphone:
 - [Apache Kafka Lag Monitoring at AppsFlyer](https://www.confluent.io/blog/kafka-lag-monitoring-and-metrics-at-appsflyer/) - `2020` - :books:
 - [Managing your Kafka in an explosive growth environment](https://www.youtube.com/watch?v=tjjeaCtsw_M) - `2019` - :studio_microphone:
+
+## BigCommerce
+
+- [Scalable E-Commerce Data Pipelines with Kafka: Real-Time Analytics, Batch, ML, Data Lake, and Beyond](https://events.bizzabo.com/468544/agenda/session/1136931) - `2023` - :studio_microphone:
 
 ## Bitpanda
 
@@ -145,16 +154,20 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [Detect Fraud Successfully with GrabDefence!](https://www.confluent.io/events/kafka-summit-apac-2021/detect-fraud-successfully-with-grabdefence/) - `2021` - :studio_microphone:
 - [Optimally Scaling Kafka Consumer Applications](https://engineering.grab.com/optimally-scaling-kafka-consumer-applications) - `2020` - :books:
 
-## Hubspot
-
-- [Our Journey to Multi-Region: Supporting Cross-Region Kafka Messaging](https://product.hubspot.com/blog/kafka-aggregation) - `2022` - :books:
-
 ## Honeycomb
 
 - [Scaling Telemetry Systems with Streaming](https://www.usenix.org/conference/srecon23americas/presentation/fong-jones) - `2023` - :studio_microphone:
 - [Lessons Learned From the Migration to Confluent Kafka](https://www.honeycomb.io/blog/kafka-migration-lessons-learned) - `2021` - :books:
 - [Scaling Kafka at Honeycomb](https://www.honeycomb.io/blog/scaling-kafka-observability-pipelines) - `2021` - :books:
 - [Bitten by a Kafka Bug - Postmortem](https://www.honeycomb.io/blog/bitten-by-a-kafka-bug-postmortem) - `2019` - :books:
+
+## Hubspot
+
+- [Our Journey to Multi-Region: Supporting Cross-Region Kafka Messaging](https://product.hubspot.com/blog/kafka-aggregation) - `2022` - :books:
+
+## Indeed
+
+- [Indeed Flex: The Story of a Revolutionary Recruitment Platform](https://events.bizzabo.com/468544/agenda/session/1136928) - `2023` - :studio_microphone:
 
 ## LinkedIn
 
@@ -169,6 +182,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## Lyft
 
+- [Evolution of Streaming Pipeline at Lyft](https://events.bizzabo.com/468544/agenda/session/1136878) - `2023` - :studio_microphone:
 - [Building an Adaptive, Multi-Tenant Stream Bus with Kafka and Golang](https://eng.lyft.com/building-an-adaptive-multi-tenant-stream-bus-with-kafka-and-golang-5f1410bf2b40) - `2020` - :books:
 - [Can Kafka Handle a Lyft Ride?](https://www.confluent.io/resources/kafka-summit-2020/can-kafka-handle-a-lyft-ride/) - `2020` - :studio_microphone:
 - [Operating Apache Kafka Clusters 24/7 Without A Global Ops Team](https://eng.lyft.com/operating-apache-kafka-clusters-24-7-without-a-global-ops-team-417813a5ce70) - `2019` - :books:
@@ -196,6 +210,10 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [Evolution of the Netflix Data Pipeline](https://netflixtechblog.com/evolution-of-the-netflix-data-pipeline-da246ca36905) - `2016` - :books:
 - [Kafka Inside Keystone Pipeline](https://netflixtechblog.com/kafka-inside-keystone-pipeline-dd5aeabaf6bb) - `2016` - :books:
 
+## New Relic
+
+- [Mitigating Kafka Broker ‘Gray’ Failures For Key Based Partitioners With Partition Multihoming](https://events.bizzabo.com/468544/agenda/session/1136888) - `2023` - :studio_microphone:
+
 ## Paypal
 
 - [Scaling Kafka to Support PayPal’s Data Growth](https://medium.com/paypal-tech/scaling-kafka-to-support-paypals-data-growth-a0b4da420fab) - `2023` - :books:
@@ -208,6 +226,10 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [How Pinterest runs Kafka at scale](https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be) - `2018` - :books:
 - [Open sourcing DoctorKafka: Kafka cluster healing and workload balancing](https://medium.com/pinterest-engineering/open-sourcing-doctorkafka-kafka-cluster-healing-and-workload-balancing-e51ad25b6b17) - `2017` - :books:
 
+## Platformatory
+
+- [Kafka Latency Analyzer: Get Insights into Per-record, End-to-end Latency](https://events.bizzabo.com/468544/agenda/session/1136921) - `2023` - :studio_microphone:
+
 ## Riskified
 
 - [How to Manage Schemas and Handle Standardization](https://medium.com/riskified-technology/how-riskified-manages-schemas-and-handles-standardization-fda9eb236e28) - `2023` - :books:
@@ -218,10 +240,12 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## Robinhood
 
+- [Robinhood’s Kafkaproxy: Decoupling Kafka Consumer Logic from Application Business Logic](https://events.bizzabo.com/468544/agenda/session/1136897) - `2023` - :studio_microphone:
 - [Tackling Kafka, with a Small Team](https://www.confluent.io/kafka-summit-san-francisco-2019/tackling-kafka-with-a-small-team/) - `2019` - :studio_microphone:
 
 ## Shopify
 
+- [Resilient Kafka: How DNS Traffic Management and Client Wrappers Ensure Availability](https://events.bizzabo.com/468544/agenda/session/1165883) - `2023` - :studio_microphone:
 - [Capturing Every Change From Shopify’s Sharded Monolith](https://shopify.engineering/capturing-every-change-shopify-sharded-monolith) - `2021` - :books:
 - [Running Apache Kafka on Kubernetes at Shopify](https://shopify.engineering/running-apache-kafka-on-kubernetes-at-shopify) - `2018` - :books:
 - [Kafka Producer Pipeline for Ruby on Rails](https://shopify.engineering/kafka-producer-pipeline-for-ruby-on-rails) - `2014` - :books:
@@ -235,7 +259,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [6 Nines: How Stripe keeps Kafka highly-available across the globe](https://www.confluent.io/events/kafka-summit-london-2022/6-nines-how-stripe-keeps-kafka-highly-available-across-the-globe/) - `2022` - :studio_microphone:
 
 ## Uber
-
+- [Learnings of Running Kafka Tiered Storage at Scale](https://events.bizzabo.com/468544/agenda/session/1136841) - `2023` - :studio_microphone:
 - [Securing Kafka® Infrastructure at Uber](https://www.uber.com/en-SG/blog/securing-kafka-infrastructure-at-uber/) - `2022` - :books:
 - [Real-Time Exactly-Once Ad Event Processing with Apache Flink, Kafka, and Pinot](https://www.uber.com/en-SG/blog/real-time-exactly-once-ad-event-processing/) - `2021` - :books:
 - [Introducing uGroup: Uber’s Consumer Management Framework](https://www.uber.com/en-SG/blog/introducing-ugroup-ubers-consumer-management-framework/) - `2021` - :books:
