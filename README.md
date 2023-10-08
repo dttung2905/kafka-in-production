@@ -39,7 +39,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 1. [Michelin](#Michelin)
 1. [Morgan Stanley](#morgan-stanley)
 1. [Netflix](#netflix)
-1. [New Relic](#newrelic)
+1. [New Relic](#new-relic)
 1. [PayPal](#PayPal)
 1. [Pinterest](#pinterest)
 1. [Platformatory](#platformatory)
@@ -226,7 +226,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [How Pinterest runs Kafka at scale](https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be) - `2018` - :books:
 - [Open sourcing DoctorKafka: Kafka cluster healing and workload balancing](https://medium.com/pinterest-engineering/open-sourcing-doctorkafka-kafka-cluster-healing-and-workload-balancing-e51ad25b6b17) - `2017` - :books:
 
-## platformatory
+## Platformatory
 
 - [Kafka Latency Analyzer: Get Insights into Per-record, End-to-end Latency](https://events.bizzabo.com/468544/agenda/session/1136921) - `2023` - :studio_microphone:
 
