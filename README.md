@@ -191,6 +191,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## Michelin
 
+- [How to 'Kstreamplify' : your new way to develop Kafka Streams application](https://blogit.michelin.io/kstreamplify/) - `2023` - :books:
 - [From Monolithic Orchestrator to Streaming with Microservices](https://www.confluent.io/events/kafka-summit-london-2023/from-monolithic-orchestrator-to-streaming-with-microservices/) - `2023` - :studio_microphone:
 - [Migrate Applications from Kafka On-Premise to Confluent Cloud](https://blogit.michelin.io/migrate-your-applications-from-kafka-onprem-to-a-manage-service/) - `2022` - :books:
 - [The Michelin Guide: an unexpected event driven use case](https://blogit.michelin.io/the-michelin-guide-an-unexpected-event-driven-use-case/) - `2022` - :books:
