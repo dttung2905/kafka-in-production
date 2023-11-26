@@ -31,6 +31,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 1. [Deliveroo](#deliveroo)
 1. [GoTo](#goto)
 1. [Grab](#grab)
+1. [HelloFresh](#hellofresh)
 1. [Honeycomb](#honeycomb)
 1. [Hubspot](#hubspot)
 1. [Indeed](#indeed)
@@ -153,6 +154,11 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [Exposing a Kafka Cluster via a VPC Endpoint Service](https://engineering.grab.com/exposing-kafka-cluster) - `2022` - :books:
 - [Detect Fraud Successfully with GrabDefence!](https://www.confluent.io/events/kafka-summit-apac-2021/detect-fraud-successfully-with-grabdefence/) - `2021` - :studio_microphone:
 - [Optimally Scaling Kafka Consumer Applications](https://engineering.grab.com/optimally-scaling-kafka-consumer-applications) - `2020` - :books:
+
+## HelloFresh
+
+- [ProtoMock: Simple Kafka Testing by Generating Mock Data from Protobuf Schemas](https://engineering.hellofresh.com/simple-kafka-testing-by-generating-mock-data-from-protobuf-schemas-a1702abe1a8c) - `2023` - :books:
+- [Renaming a Kafka topic](https://engineering.hellofresh.com/renaming-a-kafka-topic-d6ff3aaf3f03) - `2023` - :books:
 
 ## Honeycomb
 
