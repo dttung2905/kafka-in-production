@@ -28,6 +28,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 1. [Coinbase](#coinbase)
 1. [Criteo](#criteo)
 1. [Datadog](#datadog)
+1. [DoorDash](#doordash)
 1. [Deliveroo](#deliveroo)
 1. [GoTo](#goto)
 1. [Grab](#grab)
@@ -132,6 +133,12 @@ Curious to know how big companies are operating their kafka fleet in production?
 ## Datadog
 
 - [Running Production Kafka Clusters in Kubernetes](https://www.confluent.io/kafka-summit-lon19/running-production-kafka-clusters-kubernetes/) - `2019` - :studio_microphone:
+
+## Doordash
+
+- [API-First Approach to Kafka Topic Creation](https://doordash.engineering/2023/12/05/api-first-approach-to-kafka-topic-creation/) - `2023` - :books:
+- [Building Scalable Real Time Event Processing with Kafka and Flink](https://doordash.engineering/2022/08/02/building-scalable-real-time-event-processing-with-kafka-and-flink/) - `2020` - :books:
+- [Eliminating Task Processing Outages by Replacing RabbitMQ with Apache Kafka Without Downtime](https://doordash.engineering/2020/09/03/eliminating-task-processing-outages-with-kafka/) - `2020` - :books:
 
 ## Deliveroo
 
