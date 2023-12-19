@@ -55,6 +55,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 1. [Wix](#wix)
 1. [Yelp](#yelp)
 1. [Zalando](#zalando)
+1. [Zendesk](#zendesk)
 1. [Zopa Bank](#zopa-bank)
 
 ## Adobe
@@ -315,6 +316,14 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [Running Kafka Streams applications in AWS](https://engineering.zalando.com/posts/2017/11/running-kafka-streams-applications-aws.html) - `2017` - :books:
 - [A Recipe for Kafka Lag Monitoring](https://engineering.zalando.com/posts/2017/12/recipe-for-kafka-lag-monitoring.html) - `2017` - :books:
 - [Surviving Data Loss](https://engineering.zalando.com/posts/2017/12/backing-up-kafka-zookeeper.html) - `2017` - :books:
+
+## Zendesk
+
+- [Kafka: Automating Root CA rotation with Vault](https://zendesk.engineering/kafka-automating-root-ca-rotation-with-vault-9bbbe07c7c6e) - `2023` - :books:
+- [Implementing mTLS and Securing Apache Kafka at Zendesk](https://zendesk.engineering/implementing-mtls-and-securing-apache-kafka-at-zendesk-10f309db208d) - `2021` - :books:
+- [An investigation into Kafka Log Compaction](https://zendesk.engineering/an-investigation-into-kafka-log-compaction-5e520f4291f0) - `2020` - :books:
+- [Kafka on Ruby](https://zendesk.engineering/kafka-on-ruby-fdab12302146) - `2020` - :books:
+- [Create a test data generator using Kafka Connect](https://zendesk.engineering/create-a-test-data-generator-using-kafka-connect-f0a2419af76a) - `2018` - :books:
 
 ## Zopa Bank
 
