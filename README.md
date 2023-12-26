@@ -157,6 +157,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## Grab
 
+- [Kafka on Kubernetes: Reloaded for fault tolerance](https://engineering.grab.com/kafka-on-kubernetes) - `2023` - :books:
 - [Zero trust with Kafka](https://engineering.grab.com/zero-trust-with-kafka) - `2022` - :books:
 - [How Kafka Connect helps move data seamlessly](https://engineering.grab.com/kafka-connect) - `2022` - :books:
 - [Exposing a Kafka Cluster via a VPC Endpoint Service](https://engineering.grab.com/exposing-kafka-cluster) - `2022` - :books:
