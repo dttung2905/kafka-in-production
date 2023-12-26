@@ -227,7 +227,17 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## New Relic
 
+- [20 best practices for Apache Kafka at scale](https://newrelic.com/blog/best-practices/kafka-best-practices) - `2018` - :books:
+- [Using Apache Kafka for Real-Time Event Processing at New Relic](https://newrelic.com/blog/how-to-relic/apache-kafka-event-processing) - `2018` - :books:
+- [Best practices and strategies for Kafka topic partitioning](https://newrelic.com/blog/best-practices/effective-strategies-kafka-topic-partitioning) - `2021` - :books:
+- [AWS re:Invent 2020: How New Relic is migrating its Apache Kafka cluster to Amazon MSK](https://www.youtube.com/watch?v=Bod2yn16TXM) - `2021` - :studio_microphone:
+- [New Relic case: "Huge scale, small clusters: Using Cells to scale in the Cloud"](https://www.youtube.com/watch?v=eMikCXiBlOA) - `2021` - :studio_microphone:
+- [Monitoring Kafka without instrumentation using eBPF](https://archive.fosdem.org/2022/schedule/event/monitoring_kafka_using_ebpf/) - `2022` - :studio_microphone:
+- [Key Metrics To Uncover the Root Cause of Kafka Performance Anomalies](https://www.confluent.io/events/current-2022/key-metrics-to-uncover-the-root-cause-of-kafka-performance-anomalies/) - `2022` - :studio_microphone:
+- [Reducing Impact of Single Broker Failures in Kafka](https://www.confluent.io/events/kafka-summit-london-2023/reducing-impact-of-single-broker-failures-in-kafka/) - `2023` - :studio_microphone:
+- [Go Big or Go Home: Approaching Kafka Replication at Scale](https://www.confluent.io/events/current/2023/go-big-or-go-home-approaching-kafka-replication-at-scale/) - `2023` - :studio_microphone:
 - [Mitigating Kafka Broker ‘Gray’ Failures For Key Based Partitioners With Partition Multihoming](https://events.bizzabo.com/468544/agenda/session/1136888) - `2023` - :studio_microphone:
+- [Monitoring Apache Kafka for cloud cost reduction](https://newrelic.com/blog/how-to-relic/monitoring-apache-kafka-for-cloud-cost-reduction) - `2023` - :books:
 
 ## Paypal
 
