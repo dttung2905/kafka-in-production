@@ -117,6 +117,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## Cloudflare
 
+- [All about Kafka](https://changelog.com/gotime/299) - `2024` - :studio_microphone:
 - [Intelligent, automatic restarts for unhealthy Kafka consumers](https://blog.cloudflare.com/intelligent-automatic-restarts-for-unhealthy-kafka-consumers/) - `2023` - :books:
 - [Using Apache Kafka to process 1 trillion inter-service messages](https://blog.cloudflare.com/using-apache-kafka-to-process-1-trillion-messages/) - `2022` - :books:
 
