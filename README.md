@@ -40,6 +40,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 1. [LinkedIn](#linkedin)
 1. [Lyft](#lyft)
 1. [Michelin](#Michelin)
+1. [Monzo](#Monzo)
 1. [Morgan Stanley](#morgan-stanley)
 1. [Netflix](#netflix)
 1. [New Relic](#new-relic)
@@ -209,6 +210,10 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [Operating Apache Kafka Clusters 24/7 Without A Global Ops Team](https://eng.lyft.com/operating-apache-kafka-clusters-24-7-without-a-global-ops-team-417813a5ce70) - `2019` - :books:
 - [Bulletproof Apache Kafka® with Fault Tree Analysis](https://www.confluent.io/kafka-summit-ny19/bulletproof-kafka-with-fault-tree-analysis/) - `2019` - :studio_microphone:
 - [Production Ready Kafka on Kubernetes](https://www.confluent.io/kafka-summit-san-francisco-2019/production-ready-kafka-on-kubernetes/) - `2019` - :studio_microphone:
+
+## Monzo
+
+- [How we built a queue on top of Kafka](https://monzo.com/blog/how-we-built-a-queue-on-top-of-kafka) - `2024` - :books:
 
 ## Michelin
 
