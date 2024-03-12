@@ -16,6 +16,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 1. [Adobe](#adobe)
 1. [Agoda](#agoda)
 1. [Airbnb](#airbnb)
+1. [Allegro](#allegro)
 1. [Apple](#apple)
 1. [AppsFlyer](#appsflyer)
 1. [BigCommerce](#bigcommerce)
@@ -77,6 +78,10 @@ Curious to know how big companies are operating their kafka fleet in production?
 ## Airbnb
 
 - [Migrating Kafka transparently between Zookeeper clusters](https://medium.com/airbnb-engineering/migrating-kafka-transparently-between-zookeeper-clusters-e68a75062f65) - `2021` - :books:
+
+## Allegro
+
+- [Unlocking Kafka's Potential: Tackling Tail Latency with eBPF](https://blog.allegro.tech/2024/03/kafka-performance-analysis.html) - `2024` - :books:
 
 ## Apple
 
