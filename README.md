@@ -26,6 +26,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 1. [Booking.com](#bookingcom)
 1. [Brex](#brex)
 1. [Cloudflare](#cloudflare)
+1. [Cloudera](#cloudera)
 1. [Coinbase](#coinbase)
 1. [Criteo](#criteo)
 1. [Datadog](#datadog)
@@ -127,6 +128,11 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [All about Kafka](https://changelog.com/gotime/299) - `2024` - :studio_microphone:
 - [Intelligent, automatic restarts for unhealthy Kafka consumers](https://blog.cloudflare.com/intelligent-automatic-restarts-for-unhealthy-kafka-consumers/) - `2023` - :books:
 - [Using Apache Kafka to process 1 trillion inter-service messages](https://blog.cloudflare.com/using-apache-kafka-to-process-1-trillion-messages/) - `2022` - :books:
+
+## Cloudera
+
+- [Using Streams Replication Manager Prefixless Replication for Kafka Topic Aggregation](https://blog.cloudera.com/using-streams-replication-manager-prefixless-replication-for-kafka-topic-aggregation/) - `2024` - :books:
+- [Streams Replication Manager Prefixless Replication](https://blog.cloudera.com/streams-replication-manager-prefixless-replication-part-1/) - `2024` - :books:
 
 ## Coinbase
 
@@ -329,6 +335,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## Yelp
 
+- [Kafka on PaaSTA: Running Kafka on Kubernetes at Yelp (Part 2 - Migration)](https://engineeringblog.yelp.com/2022/03/kafka-on-paasta-part-two.html) - `2022` - :books:
 - [Kafka on PaaSTA: Running Kafka on Kubernetes at Yelp (Part 1 - Architecture)](https://engineeringblog.yelp.com/2021/12/kafka-on-paasta-part-one.html) - `2021` - :books:
 - [Streams and Monk – How Yelp is Approaching Kafka in 2020](https://engineeringblog.yelp.com/2020/01/streams-and-monk-how-yelp-approaches-kafka-in-2020.html) - `2020` - :books:
 - [Billions of Messages a Day – Yelp’s Real-time Data Pipeline](https://www.confluent.io/es-es/kafka-summit-nyc17/billions-messages-day-yelps-real-time-data-pipeline/) - `2017` - :studio_microphone:
