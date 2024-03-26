@@ -353,6 +353,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## Zendesk
 
+- [No Access Denied: Our Transition to Kafka ACLs](https://zendesk.engineering/no-access-denied-our-transition-to-kafka-acls-5905d29fb7cf) - `2024` - :books:
 - [Seamless Transition: Migrating Kafka Cluster to Kubernetes](https://medium.com/zendesk-engineering/seamless-transition-migrating-kafka-cluster-to-kubernetes-c8dc66594d1b) - `2024` - :books:
 - [Kafka: Automating Root CA rotation with Vault](https://zendesk.engineering/kafka-automating-root-ca-rotation-with-vault-9bbbe07c7c6e) - `2023` - :books:
 - [Implementing mTLS and Securing Apache Kafka at Zendesk](https://zendesk.engineering/implementing-mtls-and-securing-apache-kafka-at-zendesk-10f309db208d) - `2021` - :books:
