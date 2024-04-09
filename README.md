@@ -126,7 +126,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 - [Transactional Events Publishing At Brex](https://medium.com/brexeng/transactional-events-publishing-at-brex-66a5984f0726) - `2022` - :books:
 
-## Brex
+## CERN 
 
 - [CERN IoT Kafka Pipelines](https://www.confluent.io/events/kafka-summit-london-2024/cern-iot-kafka-pipelines/) - `2024` - :studio_microphone:
 
