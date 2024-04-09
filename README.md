@@ -25,6 +25,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 1. [Bolt](#bolt)
 1. [Booking.com](#bookingcom)
 1. [Brex](#brex)
+1. [CERN](#cern)
 1. [Cloudflare](#cloudflare)
 1. [Cloudera](#cloudera)
 1. [Coinbase](#coinbase)
@@ -39,6 +40,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 1. [Honeycomb](#honeycomb)
 1. [Hubspot](#hubspot)
 1. [Indeed](#indeed)
+1. [Klarna](#klarna)
 1. [LinkedIn](#linkedin)
 1. [Lyft](#lyft)
 1. [Michelin](#Michelin)
@@ -86,6 +88,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## Apple
 
+- [Leveraging Tiered Storage in Strimzi-Operated Kafka for Cost-Effective Streaming Applications](https://www.confluent.io/events/kafka-summit-london-2024/leveraging-tiered-storage-in-strimzi-operated-kafka-for-cost-effective/) - `2024` - :studio_microphone:
 - [Balance Kafka Cluster with Zero Data Movement](https://www.confluent.io/events/kafka-summit-london-2023/balance-kafka-cluster-with-zero-data-movement/) - `2023` - :studio_microphone:
 - [Experiences Operating Apache Kafka® at Scale](https://www.confluent.io/kafka-summit-ny19/experiences-operating-apache-kafka-at-scale/) - `2019` - :studio_microphone:
 - [Kafka as a Service A Tale of Security and Multi Tenancy](https://www.confluent.io/blog/rounding-up-kafka-summit-london-2018/) - `2018` - :studio_microphone:
@@ -122,6 +125,10 @@ Curious to know how big companies are operating their kafka fleet in production?
 ## Brex
 
 - [Transactional Events Publishing At Brex](https://medium.com/brexeng/transactional-events-publishing-at-brex-66a5984f0726) - `2022` - :books:
+
+## Brex
+
+- [CERN IoT Kafka Pipelines](https://www.confluent.io/events/kafka-summit-london-2024/cern-iot-kafka-pipelines/) - `2024` - :studio_microphone:
 
 ## Cloudflare
 
@@ -202,6 +209,10 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 - [Indeed Flex: The Story of a Revolutionary Recruitment Platform](https://events.bizzabo.com/468544/agenda/session/1136928) - `2023` - :studio_microphone:
 
+## Klarna
+
+- [Evolving a Real-time Fraud Barrier with Kafka](https://www.confluent.io/events/kafka-summit-london-2024/evolving-a-real-time-fraud-barrier-with-kafka/) - `2024` - :studio_microphone:
+
 ## LinkedIn
 
 - [Load-balanced Brooklin Mirror Maker: Replicating large-scale Kafka clusters at LinkedIn](https://engineering.linkedin.com/blog/2022/load-balanced-brooklin-mirror-maker--replicating-large-scale-kaf) - `2022` - :books:
@@ -270,6 +281,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## Pinterest
 
+- [Pinterest’s Journey to a Automated, Efficient, and Low-Maintenance Kafka Platform](https://www.confluent.io/events/kafka-summit-london-2024/pinterests-journey-to-a-automated-efficient-and-low-maintenance-kafka/) - `2024` - :studio_microphone:
 - [Lessons Learned from Running Apache Kafka at Scale at Pinterest](https://www.confluent.io/blog/running-kafka-at-scale-at-pinterest/) - `2021` - :books:
 - [How Pinterest runs Kafka at scale](https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be) - `2018` - :books:
 - [Open sourcing DoctorKafka: Kafka cluster healing and workload balancing](https://medium.com/pinterest-engineering/open-sourcing-doctorkafka-kafka-cluster-healing-and-workload-balancing-e51ad25b6b17) - `2017` - :books:
@@ -307,6 +319,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [6 Nines: How Stripe keeps Kafka highly-available across the globe](https://www.confluent.io/events/kafka-summit-london-2022/6-nines-how-stripe-keeps-kafka-highly-available-across-the-globe/) - `2022` - :studio_microphone:
 
 ## Uber
+- [Exactly-Once Stream Processing at Scale in Uber](https://www.confluent.io/events/kafka-summit-london-2024/exactly-once-stream-processing-at-scale-in-uber/) - `2024` - :studio_microphone:
 - [Learnings of Running Kafka Tiered Storage at Scale](https://events.bizzabo.com/468544/agenda/session/1136841) - `2023` - :studio_microphone:
 - [Securing Kafka® Infrastructure at Uber](https://www.uber.com/en-SG/blog/securing-kafka-infrastructure-at-uber/) - `2022` - :books:
 - [Real-Time Exactly-Once Ad Event Processing with Apache Flink, Kafka, and Pinot](https://www.uber.com/en-SG/blog/real-time-exactly-once-ad-event-processing/) - `2021` - :books:
