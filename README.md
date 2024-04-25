@@ -316,6 +316,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## Stripe
 
+- [Mastering Kafka at Scale: Unleashing the Power of Temporal at Stripe | Replay 2023](https://www.youtube.com/watch?v=aF4SHzsxgSc) - `2023` - :studio_microphone:
 - [6 Nines: How Stripe keeps Kafka highly-available across the globe](https://www.confluent.io/events/kafka-summit-london-2022/6-nines-how-stripe-keeps-kafka-highly-available-across-the-globe/) - `2022` - :studio_microphone:
 
 ## Uber
