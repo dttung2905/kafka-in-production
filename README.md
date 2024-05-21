@@ -74,6 +74,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## Agoda
 
+- [How We Solve Load Balancing Challenges in Apache Kafka](https://medium.com/agoda-engineering/how-we-solve-load-balancing-challenges-in-apache-kafka-8cd88fdad02b) - `2024` - :books:
 - [How Agoda manages 1.5 Trillion Events per day on Kafka](https://medium.com/agoda-engineering/how-agoda-manages-1-5-trillion-events-per-day-on-kafka-f0a27fc32ecb) - `2021` - :books:
 - [Adding Time Lag to Monitor Kafka Consumer](https://medium.com/agoda-engineering/adding-time-lag-to-monitor-kafka-consumer-2c626fa61cfc) - `2021` - :books:
 - [How our data scientists' petabytes of data is ingested into Hadoop (from Kafka)](https://medium.com/agoda-engineering/ingesting-petabytes-of-data-per-week-into-hadoop-from-kafka-457718cc308c) - `2021` - :books:
