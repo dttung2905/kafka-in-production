@@ -262,6 +262,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## New Relic
 
+- [Tuning Apache Kafka Consumers to maximize throughput and reduce costs](https://newrelic.com/blog/how-to-relic/tuning-apache-kafka-consumers) - `2024` - :books:
 - [20 best practices for Apache Kafka at scale](https://newrelic.com/blog/best-practices/kafka-best-practices) - `2018` - :books:
 - [Using Apache Kafka for Real-Time Event Processing at New Relic](https://newrelic.com/blog/how-to-relic/apache-kafka-event-processing) - `2018` - :books:
 - [Best practices and strategies for Kafka topic partitioning](https://newrelic.com/blog/best-practices/effective-strategies-kafka-topic-partitioning) - `2021` - :books:
