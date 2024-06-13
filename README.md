@@ -16,6 +16,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 1. [Adobe](#adobe)
 1. [Agoda](#agoda)
 1. [Airbnb](#airbnb)
+1. [Allegro](#allegro)
 1. [Apple](#apple)
 1. [AppsFlyer](#appsflyer)
 1. [BigCommerce](#bigcommerce)
@@ -24,19 +25,26 @@ Curious to know how big companies are operating their kafka fleet in production?
 1. [Bolt](#bolt)
 1. [Booking.com](#bookingcom)
 1. [Brex](#brex)
+1. [CERN](#cern)
 1. [Cloudflare](#cloudflare)
+1. [Cloudera](#cloudera)
 1. [Coinbase](#coinbase)
 1. [Criteo](#criteo)
 1. [Datadog](#datadog)
+1. [DoorDash](#doordash)
+1. [Decathlon](#decathlon)
 1. [Deliveroo](#deliveroo)
 1. [GoTo](#goto)
 1. [Grab](#grab)
+1. [HelloFresh](#hellofresh)
 1. [Honeycomb](#honeycomb)
 1. [Hubspot](#hubspot)
 1. [Indeed](#indeed)
+1. [Klarna](#klarna)
 1. [LinkedIn](#linkedin)
 1. [Lyft](#lyft)
 1. [Michelin](#Michelin)
+1. [Monzo](#Monzo)
 1. [Morgan Stanley](#morgan-stanley)
 1. [Netflix](#netflix)
 1. [New Relic](#new-relic)
@@ -53,6 +61,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 1. [Wix](#wix)
 1. [Yelp](#yelp)
 1. [Zalando](#zalando)
+1. [Zendesk](#zendesk)
 1. [Zopa Bank](#zopa-bank)
 
 ## Adobe
@@ -65,6 +74,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## Agoda
 
+- [How We Solve Load Balancing Challenges in Apache Kafka](https://medium.com/agoda-engineering/how-we-solve-load-balancing-challenges-in-apache-kafka-8cd88fdad02b) - `2024` - :books:
 - [How Agoda manages 1.5 Trillion Events per day on Kafka](https://medium.com/agoda-engineering/how-agoda-manages-1-5-trillion-events-per-day-on-kafka-f0a27fc32ecb) - `2021` - :books:
 - [Adding Time Lag to Monitor Kafka Consumer](https://medium.com/agoda-engineering/adding-time-lag-to-monitor-kafka-consumer-2c626fa61cfc) - `2021` - :books:
 - [How our data scientists' petabytes of data is ingested into Hadoop (from Kafka)](https://medium.com/agoda-engineering/ingesting-petabytes-of-data-per-week-into-hadoop-from-kafka-457718cc308c) - `2021` - :books:
@@ -73,8 +83,13 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 - [Migrating Kafka transparently between Zookeeper clusters](https://medium.com/airbnb-engineering/migrating-kafka-transparently-between-zookeeper-clusters-e68a75062f65) - `2021` - :books:
 
+## Allegro
+
+- [Unlocking Kafka's Potential: Tackling Tail Latency with eBPF](https://blog.allegro.tech/2024/03/kafka-performance-analysis.html) - `2024` - :books:
+
 ## Apple
 
+- [Leveraging Tiered Storage in Strimzi-Operated Kafka for Cost-Effective Streaming Applications](https://www.confluent.io/events/kafka-summit-london-2024/leveraging-tiered-storage-in-strimzi-operated-kafka-for-cost-effective/) - `2024` - :studio_microphone:
 - [Balance Kafka Cluster with Zero Data Movement](https://www.confluent.io/events/kafka-summit-london-2023/balance-kafka-cluster-with-zero-data-movement/) - `2023` - :studio_microphone:
 - [Experiences Operating Apache Kafka® at Scale](https://www.confluent.io/kafka-summit-ny19/experiences-operating-apache-kafka-at-scale/) - `2019` - :studio_microphone:
 - [Kafka as a Service A Tale of Security and Multi Tenancy](https://www.confluent.io/blog/rounding-up-kafka-summit-london-2018/) - `2018` - :studio_microphone:
@@ -112,10 +127,20 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 - [Transactional Events Publishing At Brex](https://medium.com/brexeng/transactional-events-publishing-at-brex-66a5984f0726) - `2022` - :books:
 
+## CERN 
+
+- [CERN IoT Kafka Pipelines](https://www.confluent.io/events/kafka-summit-london-2024/cern-iot-kafka-pipelines/) - `2024` - :studio_microphone:
+
 ## Cloudflare
 
+- [All about Kafka](https://changelog.com/gotime/299) - `2024` - :studio_microphone:
 - [Intelligent, automatic restarts for unhealthy Kafka consumers](https://blog.cloudflare.com/intelligent-automatic-restarts-for-unhealthy-kafka-consumers/) - `2023` - :books:
 - [Using Apache Kafka to process 1 trillion inter-service messages](https://blog.cloudflare.com/using-apache-kafka-to-process-1-trillion-messages/) - `2022` - :books:
+
+## Cloudera
+
+- [Using Streams Replication Manager Prefixless Replication for Kafka Topic Aggregation](https://blog.cloudera.com/using-streams-replication-manager-prefixless-replication-for-kafka-topic-aggregation/) - `2024` - :books:
+- [Streams Replication Manager Prefixless Replication](https://blog.cloudera.com/streams-replication-manager-prefixless-replication-part-1/) - `2024` - :books:
 
 ## Coinbase
 
@@ -132,9 +157,19 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 - [Running Production Kafka Clusters in Kubernetes](https://www.confluent.io/kafka-summit-lon19/running-production-kafka-clusters-kubernetes/) - `2019` - :studio_microphone:
 
+## Decathlon
+
+- [Seamless data exchange with Kafka Connect and Strimzi on Kubernetes at Decathlon](https://medium.com/decathlondigital/seamless-data-exchange-with-kafka-connect-and-strimzi-on-kubernetes-at-decathlon-e6f81d034535) - `2024` - :books:
+
 ## Deliveroo
 
 - [Improving Stream Data Quality With Protobuf Schema Validation](https://deliveroo.engineering/2019/02/05/improving-stream-data-quality-with-protobuf-schema-validation.html) - `2019` - :books:
+
+## Doordash
+
+- [API-First Approach to Kafka Topic Creation](https://doordash.engineering/2023/12/05/api-first-approach-to-kafka-topic-creation/) - `2023` - :books:
+- [Building Scalable Real Time Event Processing with Kafka and Flink](https://doordash.engineering/2022/08/02/building-scalable-real-time-event-processing-with-kafka-and-flink/) - `2020` - :books:
+- [Eliminating Task Processing Outages by Replacing RabbitMQ with Apache Kafka Without Downtime](https://doordash.engineering/2020/09/03/eliminating-task-processing-outages-with-kafka/) - `2020` - :books:
 
 ## GoTo
 
@@ -148,11 +183,17 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## Grab
 
+- [Kafka on Kubernetes: Reloaded for fault tolerance](https://engineering.grab.com/kafka-on-kubernetes) - `2023` - :books:
 - [Zero trust with Kafka](https://engineering.grab.com/zero-trust-with-kafka) - `2022` - :books:
 - [How Kafka Connect helps move data seamlessly](https://engineering.grab.com/kafka-connect) - `2022` - :books:
 - [Exposing a Kafka Cluster via a VPC Endpoint Service](https://engineering.grab.com/exposing-kafka-cluster) - `2022` - :books:
 - [Detect Fraud Successfully with GrabDefence!](https://www.confluent.io/events/kafka-summit-apac-2021/detect-fraud-successfully-with-grabdefence/) - `2021` - :studio_microphone:
 - [Optimally Scaling Kafka Consumer Applications](https://engineering.grab.com/optimally-scaling-kafka-consumer-applications) - `2020` - :books:
+
+## HelloFresh
+
+- [ProtoMock: Simple Kafka Testing by Generating Mock Data from Protobuf Schemas](https://engineering.hellofresh.com/simple-kafka-testing-by-generating-mock-data-from-protobuf-schemas-a1702abe1a8c) - `2023` - :books:
+- [Renaming a Kafka topic](https://engineering.hellofresh.com/renaming-a-kafka-topic-d6ff3aaf3f03) - `2023` - :books:
 
 ## Honeycomb
 
@@ -168,6 +209,10 @@ Curious to know how big companies are operating their kafka fleet in production?
 ## Indeed
 
 - [Indeed Flex: The Story of a Revolutionary Recruitment Platform](https://events.bizzabo.com/468544/agenda/session/1136928) - `2023` - :studio_microphone:
+
+## Klarna
+
+- [Evolving a Real-time Fraud Barrier with Kafka](https://www.confluent.io/events/kafka-summit-london-2024/evolving-a-real-time-fraud-barrier-with-kafka/) - `2024` - :studio_microphone:
 
 ## LinkedIn
 
@@ -189,10 +234,18 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [Bulletproof Apache Kafka® with Fault Tree Analysis](https://www.confluent.io/kafka-summit-ny19/bulletproof-kafka-with-fault-tree-analysis/) - `2019` - :studio_microphone:
 - [Production Ready Kafka on Kubernetes](https://www.confluent.io/kafka-summit-san-francisco-2019/production-ready-kafka-on-kubernetes/) - `2019` - :studio_microphone:
 
+## Monzo
+
+- [How we built a queue on top of Kafka](https://monzo.com/blog/how-we-built-a-queue-on-top-of-kafka) - `2024` - :books:
+
 ## Michelin
 
+<<<<<<< main
 - [Designing Kafka Streams Applications](https://blogit.michelin.io/dkafka-streams/) - `2024` - :books:
 - [Contributing to open source software : AKHQ](https://blogit.michelin.io/michelin-loves-open-source-software-and-we-can-prove-it-2/) - `2024` - :books:
+=======
+- [How to 'Kstreamplify' : your new way to develop Kafka Streams application](https://blogit.michelin.io/kstreamplify/) - `2023` - :books:
+>>>>>>> main
 - [From Monolithic Orchestrator to Streaming with Microservices](https://www.confluent.io/events/kafka-summit-london-2023/from-monolithic-orchestrator-to-streaming-with-microservices/) - `2023` - :studio_microphone:
 - [Migrate Applications from Kafka On-Premise to Confluent Cloud](https://blogit.michelin.io/migrate-your-applications-from-kafka-onprem-to-a-manage-service/) - `2022` - :books:
 - [The Michelin Guide: an unexpected event driven use case](https://blogit.michelin.io/the-michelin-guide-an-unexpected-event-driven-use-case/) - `2022` - :books:
@@ -214,7 +267,18 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## New Relic
 
+- [Tuning Apache Kafka Consumers to maximize throughput and reduce costs](https://newrelic.com/blog/how-to-relic/tuning-apache-kafka-consumers) - `2024` - :books:
+- [20 best practices for Apache Kafka at scale](https://newrelic.com/blog/best-practices/kafka-best-practices) - `2018` - :books:
+- [Using Apache Kafka for Real-Time Event Processing at New Relic](https://newrelic.com/blog/how-to-relic/apache-kafka-event-processing) - `2018` - :books:
+- [Best practices and strategies for Kafka topic partitioning](https://newrelic.com/blog/best-practices/effective-strategies-kafka-topic-partitioning) - `2021` - :books:
+- [AWS re:Invent 2020: How New Relic is migrating its Apache Kafka cluster to Amazon MSK](https://www.youtube.com/watch?v=Bod2yn16TXM) - `2021` - :studio_microphone:
+- [New Relic case: "Huge scale, small clusters: Using Cells to scale in the Cloud"](https://www.youtube.com/watch?v=eMikCXiBlOA) - `2021` - :studio_microphone:
+- [Monitoring Kafka without instrumentation using eBPF](https://archive.fosdem.org/2022/schedule/event/monitoring_kafka_using_ebpf/) - `2022` - :studio_microphone:
+- [Key Metrics To Uncover the Root Cause of Kafka Performance Anomalies](https://www.confluent.io/events/current-2022/key-metrics-to-uncover-the-root-cause-of-kafka-performance-anomalies/) - `2022` - :studio_microphone:
+- [Reducing Impact of Single Broker Failures in Kafka](https://www.confluent.io/events/kafka-summit-london-2023/reducing-impact-of-single-broker-failures-in-kafka/) - `2023` - :studio_microphone:
+- [Go Big or Go Home: Approaching Kafka Replication at Scale](https://www.confluent.io/events/current/2023/go-big-or-go-home-approaching-kafka-replication-at-scale/) - `2023` - :studio_microphone:
 - [Mitigating Kafka Broker ‘Gray’ Failures For Key Based Partitioners With Partition Multihoming](https://events.bizzabo.com/468544/agenda/session/1136888) - `2023` - :studio_microphone:
+- [Monitoring Apache Kafka for cloud cost reduction](https://newrelic.com/blog/how-to-relic/monitoring-apache-kafka-for-cloud-cost-reduction) - `2023` - :books:
 
 ## Paypal
 
@@ -224,6 +288,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## Pinterest
 
+- [Pinterest’s Journey to a Automated, Efficient, and Low-Maintenance Kafka Platform](https://www.confluent.io/events/kafka-summit-london-2024/pinterests-journey-to-a-automated-efficient-and-low-maintenance-kafka/) - `2024` - :studio_microphone:
 - [Lessons Learned from Running Apache Kafka at Scale at Pinterest](https://www.confluent.io/blog/running-kafka-at-scale-at-pinterest/) - `2021` - :books:
 - [How Pinterest runs Kafka at scale](https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be) - `2018` - :books:
 - [Open sourcing DoctorKafka: Kafka cluster healing and workload balancing](https://medium.com/pinterest-engineering/open-sourcing-doctorkafka-kafka-cluster-healing-and-workload-balancing-e51ad25b6b17) - `2017` - :books:
@@ -258,9 +323,11 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## Stripe
 
+- [Mastering Kafka at Scale: Unleashing the Power of Temporal at Stripe | Replay 2023](https://www.youtube.com/watch?v=aF4SHzsxgSc) - `2023` - :studio_microphone:
 - [6 Nines: How Stripe keeps Kafka highly-available across the globe](https://www.confluent.io/events/kafka-summit-london-2022/6-nines-how-stripe-keeps-kafka-highly-available-across-the-globe/) - `2022` - :studio_microphone:
 
 ## Uber
+- [Exactly-Once Stream Processing at Scale in Uber](https://www.confluent.io/events/kafka-summit-london-2024/exactly-once-stream-processing-at-scale-in-uber/) - `2024` - :studio_microphone:
 - [Learnings of Running Kafka Tiered Storage at Scale](https://events.bizzabo.com/468544/agenda/session/1136841) - `2023` - :studio_microphone:
 - [Securing Kafka® Infrastructure at Uber](https://www.uber.com/en-SG/blog/securing-kafka-infrastructure-at-uber/) - `2022` - :books:
 - [Real-Time Exactly-Once Ad Event Processing with Apache Flink, Kafka, and Pinot](https://www.uber.com/en-SG/blog/real-time-exactly-once-ad-event-processing/) - `2021` - :books:
@@ -289,6 +356,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## Yelp
 
+- [Kafka on PaaSTA: Running Kafka on Kubernetes at Yelp (Part 2 - Migration)](https://engineeringblog.yelp.com/2022/03/kafka-on-paasta-part-two.html) - `2022` - :books:
 - [Kafka on PaaSTA: Running Kafka on Kubernetes at Yelp (Part 1 - Architecture)](https://engineeringblog.yelp.com/2021/12/kafka-on-paasta-part-one.html) - `2021` - :books:
 - [Streams and Monk – How Yelp is Approaching Kafka in 2020](https://engineeringblog.yelp.com/2020/01/streams-and-monk-how-yelp-approaches-kafka-in-2020.html) - `2020` - :books:
 - [Billions of Messages a Day – Yelp’s Real-time Data Pipeline](https://www.confluent.io/es-es/kafka-summit-nyc17/billions-messages-day-yelps-real-time-data-pipeline/) - `2017` - :studio_microphone:
@@ -303,6 +371,16 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [Running Kafka Streams applications in AWS](https://engineering.zalando.com/posts/2017/11/running-kafka-streams-applications-aws.html) - `2017` - :books:
 - [A Recipe for Kafka Lag Monitoring](https://engineering.zalando.com/posts/2017/12/recipe-for-kafka-lag-monitoring.html) - `2017` - :books:
 - [Surviving Data Loss](https://engineering.zalando.com/posts/2017/12/backing-up-kafka-zookeeper.html) - `2017` - :books:
+
+## Zendesk
+
+- [No Access Denied: Our Transition to Kafka ACLs](https://zendesk.engineering/no-access-denied-our-transition-to-kafka-acls-5905d29fb7cf) - `2024` - :books:
+- [Seamless Transition: Migrating Kafka Cluster to Kubernetes](https://medium.com/zendesk-engineering/seamless-transition-migrating-kafka-cluster-to-kubernetes-c8dc66594d1b) - `2024` - :books:
+- [Kafka: Automating Root CA rotation with Vault](https://zendesk.engineering/kafka-automating-root-ca-rotation-with-vault-9bbbe07c7c6e) - `2023` - :books:
+- [Implementing mTLS and Securing Apache Kafka at Zendesk](https://zendesk.engineering/implementing-mtls-and-securing-apache-kafka-at-zendesk-10f309db208d) - `2021` - :books:
+- [An investigation into Kafka Log Compaction](https://zendesk.engineering/an-investigation-into-kafka-log-compaction-5e520f4291f0) - `2020` - :books:
+- [Kafka on Ruby](https://zendesk.engineering/kafka-on-ruby-fdab12302146) - `2020` - :books:
+- [Create a test data generator using Kafka Connect](https://zendesk.engineering/create-a-test-data-generator-using-kafka-connect-f0a2419af76a) - `2018` - :books:
 
 ## Zopa Bank
 
