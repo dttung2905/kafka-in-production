@@ -324,6 +324,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [6 Nines: How Stripe keeps Kafka highly-available across the globe](https://www.confluent.io/events/kafka-summit-london-2022/6-nines-how-stripe-keeps-kafka-highly-available-across-the-globe/) - `2022` - :studio_microphone:
 
 ## Uber
+- [Introduction to Kafka Tiered Storage at Uber](https://www.uber.com/en-GB/blog/kafka-tiered-storage/?uclick_id=ad416b56-ad9e-469e-9e47-edd1f5fd3ccd) - `2024` - :books:
 - [Exactly-Once Stream Processing at Scale in Uber](https://www.confluent.io/events/kafka-summit-london-2024/exactly-once-stream-processing-at-scale-in-uber/) - `2024` - :studio_microphone:
 - [Learnings of Running Kafka Tiered Storage at Scale](https://events.bizzabo.com/468544/agenda/session/1136841) - `2023` - :studio_microphone:
 - [Securing Kafka® Infrastructure at Uber](https://www.uber.com/en-SG/blog/securing-kafka-infrastructure-at-uber/) - `2022` - :books:
