@@ -286,6 +286,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## Pinterest
 
+- [Pinterest Tiered Storage for Apache Kafka®️: A Broker-Decoupled Approach](https://medium.com/pinterest-engineering/pinterest-tiered-storage-for-apache-kafka-%EF%B8%8F-a-broker-decoupled-approach-c33c69e9958b) - `2024` - :books:
 - [Pinterest’s Journey to a Automated, Efficient, and Low-Maintenance Kafka Platform](https://www.confluent.io/events/kafka-summit-london-2024/pinterests-journey-to-a-automated-efficient-and-low-maintenance-kafka/) - `2024` - :studio_microphone:
 - [Lessons Learned from Running Apache Kafka at Scale at Pinterest](https://www.confluent.io/blog/running-kafka-at-scale-at-pinterest/) - `2021` - :books:
 - [How Pinterest runs Kafka at scale](https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be) - `2018` - :books:
