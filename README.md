@@ -153,6 +153,10 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [Upgrading Kafka on a large infra, or: when moving at scale requires careful planning](https://medium.com/criteo-engineering/upgrading-kafka-on-a-large-infra-3ee99f56e970) - `2019` - :books:
 - [How Criteo is managing one of the largest Kafka Infrastructure in Europe](https://www.slideshare.net/RicardoPaiva17/how-criteo-is-managing-one-of-the-largest-kafka-infrastructure-in-europe) - `2019` - :books:
 
+## Crowdstrike
+
+- [Real-time Adaptive Controls for Kafka Consumers](https://current.confluent.io/2024-sessions/real-time-adaptive-controls-for-kafka-consumers) - `2024` - :studio_microphone:
+
 ## Datadog
 
 - [Running Production Kafka Clusters in Kubernetes](https://www.confluent.io/kafka-summit-lon19/running-production-kafka-clusters-kubernetes/) - `2019` - :studio_microphone:
@@ -257,7 +261,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [Consistent, High-throughput, Real-time Calculation Engines Using Kafka Streams](https://www.confluent.io/events/kafka-summit-london-2023/consistent-high-throughput-real-time-calculation-engines-using-kafka-streams/) - `2023` - :studio_microphone:
 
 ## Netflix
-
+- [Self-Hosting Kafka at Scale: Netflix's Journey and Challenges](https://current.confluent.io/2024-sessions/self-hosting-kafka-at-scale-netflixs-journey-and-challenges) - `2024` - :studio_microphone:
 - [Featuring Apache Kafka in the Netflix Studio and Finance World](https://www.confluent.io/blog/how-kafka-is-used-by-netflix/) - `2020` - :books:
 - [Inca — Message Tracing and Loss Detection For Streaming Data @Netflix](https://netflixtechblog.medium.com/inca-message-tracing-and-loss-detection-for-streaming-data-netflix-de4836fc38c9) - `2019` - :books:
 - [Evolution of the Netflix Data Pipeline](https://netflixtechblog.com/evolution-of-the-netflix-data-pipeline-da246ca36905) - `2016` - :books:
@@ -265,6 +269,8 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## New Relic
 
+- [Scaling Data Ingestion: Overcoming Challenges with Cell Architecture](https://current.confluent.io/2024-sessions/scaling-data-ingestion-overcoming-challenges-with-cell-architecture) - `2024` - :studio_microphone:
+- [Keep Your Kafka Cloud Costs in Check with Showbacks](https://www.confluent.io/events/kafka-summit-london-2024/keep-your-kafka-cloud-costs-in-check-with-showbacks/) - `2024` - :studio_microphone:
 - [Tuning Apache Kafka Consumers to maximize throughput and reduce costs](https://newrelic.com/blog/how-to-relic/tuning-apache-kafka-consumers) - `2024` - :books:
 - [20 best practices for Apache Kafka at scale](https://newrelic.com/blog/best-practices/kafka-best-practices) - `2018` - :books:
 - [Using Apache Kafka for Real-Time Event Processing at New Relic](https://newrelic.com/blog/how-to-relic/apache-kafka-event-processing) - `2018` - :books:
@@ -305,7 +311,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [From AWS CloudFormation to Terraform: Migrating Apache Kafka](https://medium.com/riskified-technology/from-aws-cloudformation-to-terraform-migrating-apache-kafka-32bdabdbaa59) - `2021` - :books:
 
 ## Robinhood
-
+- [Robinhood’s Kafka Journey from EC2 to Kubernetes](https://current.confluent.io/2024-sessions/robinhoods-kafka-journey-from-ec2-to-kubernetes) - `2024` - :studio_microphone:
 - [Robinhood’s Kafkaproxy: Decoupling Kafka Consumer Logic from Application Business Logic](https://events.bizzabo.com/468544/agenda/session/1136897) - `2023` - :studio_microphone:
 - [Tackling Kafka, with a Small Team](https://www.confluent.io/kafka-summit-san-francisco-2019/tackling-kafka-with-a-small-team/) - `2019` - :studio_microphone:
 
@@ -319,13 +325,16 @@ Curious to know how big companies are operating their kafka fleet in production?
 ## Slack
 
 - [Building Self-driving Kafka clusters using open source components](https://slack.engineering/building-self-driving-kafka-clusters-using-open-source-components/) - `2022` - :books:
+- [Building Self-driving Kafka clusters using open source components](https://slack.engineering/building-self-driving-kafka-clusters-using-open-source-components/) - `2022` - :books:
 
 ## Stripe
 
-- [Mastering Kafka at Scale: Unleashing the Power of Temporal at Stripe | Replay 2023](https://www.youtube.com/watch?v=aF4SHzsxgSc) - `2023` - :studio_microphone:
+- [Mastering Kafka at Scale: UnleashProtobuf Support in Uber's Real-Time Data Stacking the Power of Temporal at Stripe | Replay 2023](https://www.youtube.com/watch?v=aF4SHzsxgSc) - `2023` - :studio_microphone:
 - [6 Nines: How Stripe keeps Kafka highly-available across the globe](https://www.confluent.io/events/kafka-summit-london-2022/6-nines-how-stripe-keeps-kafka-highly-available-across-the-globe/) - `2022` - :studio_microphone:
 
 ## Uber
+- [Protobuf Support in Uber's Real-Time Data Stack](https://current.confluent.io/2024-sessions/protobuf-support-in-ubers-real-time-data-stack) - `2024` - :studio_microphone:
+- [Topic Federation: Enhance Kafka Availabilty with Sharded Topics Across Clusters](https://current.confluent.io/2024-sessions/topic-federation-enhance-kafka-availabilty-with-sharded-topics-across-clusters) - `2024` - :studio_microphone:
 - [Introduction to Kafka Tiered Storage at Uber](https://www.uber.com/en-GB/blog/kafka-tiered-storage/?uclick_id=ad416b56-ad9e-469e-9e47-edd1f5fd3ccd) - `2024` - :books:
 - [Exactly-Once Stream Processing at Scale in Uber](https://www.confluent.io/events/kafka-summit-london-2024/exactly-once-stream-processing-at-scale-in-uber/) - `2024` - :studio_microphone:
 - [Learnings of Running Kafka Tiered Storage at Scale](https://events.bizzabo.com/468544/agenda/session/1136841) - `2023` - :studio_microphone:
