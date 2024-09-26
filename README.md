@@ -1,4 +1,4 @@
-# k.fka-in-production
+# kafka-in-production
 
 ![HitCount](http://hits.dwyl.com/dttung2905/kafka-in-production.svg)
 ![license](https://img.shields.io/github/license/dttung2905/kafka-in-production)
