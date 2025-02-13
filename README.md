@@ -53,6 +53,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 1. [Platformatory](#platformatory)
 1. [Riskified](#riskified)
 1. [Robinhood](#robinhood)
+1. [Salesforce](#saleforce)
 1. [Shopify](#shopify)
 1. [Slack](#slack)
 1. [Stripe](#stripe)
@@ -314,6 +315,12 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [Robinhood’s Kafka Journey from EC2 to Kubernetes](https://current.confluent.io/2024-sessions/robinhoods-kafka-journey-from-ec2-to-kubernetes) - `2024` - :studio_microphone:
 - [Robinhood’s Kafkaproxy: Decoupling Kafka Consumer Logic from Application Business Logic](https://events.bizzabo.com/468544/agenda/session/1136897) - `2023` - :studio_microphone:
 - [Tackling Kafka, with a Small Team](https://www.confluent.io/kafka-summit-san-francisco-2019/tackling-kafka-with-a-small-team/) - `2019` - :studio_microphone:
+
+## Salesforce
+- [How Apache Kafka Inspired Our Platform Events Architecture](https://engineering.salesforce.com/how-apache-kafka-inspired-our-platform-events-architecture-2f351fe4cf63/) - `2024` - :books:
+- [Our Journey to a Near Perfect Log Pipeline](https://engineering.salesforce.com/our-journey-to-a-near-perfect-log-pipeline-6ae2f80cf7a0/) - `2024` - :books:
+- [Expanding Visibility With Apache Kafka](https://engineering.salesforce.com/expanding-visibility-with-apache-kafka-e305b12c4aba/) - `2024` - :books:
+- [Open Sourcing Mirus](https://engineering.salesforce.com/open-sourcing-mirus-3ec2c8a38537/) - `2024` - :books:
 
 ## Shopify
 
