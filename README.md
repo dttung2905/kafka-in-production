@@ -255,7 +255,10 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [How we built a queue on top of Kafka](https://monzo.com/blog/how-we-built-a-queue-on-top-of-kafka) - `2024` - :books:
 
 ## Michelin
-
+- [Optimizing Kafka Streams Joins for Business-Critical Processes](https://current.confluent.io/post-conference-videos-2025/optimizing-kafka-streams-joins-for-business-critical-processes-lnd25) - `2025` - :studio_microphone:
+- [Processing Exception Handling and Dead Letter Queue in Kafka Streams](https://current.confluent.io/post-conference-videos-2025/processing-exception-handling-and-dead-letter-queue-in-kafka-streams-lnd25) - `2025` - :studio_microphone:
+- [Massive Kafka Streams Topology Revamp in Production: No Chaos, No Headaches! My Key Takeaways 🦾!](https://current.confluent.io/post-conference-videos-2025/massive-kafka-streams-topology-revamp-in-production-no-chaos-no-headaches-my-key-takeaways-lnd25) - `2025` - :studio_microphone:
+- [Processing Error Handling in Kafka Streams](https://blogit.michelin.io/processing-error-handling-in-kafka-streams/) - `2025` - :books:
 - [Designing Kafka Streams Applications](https://blogit.michelin.io/dkafka-streams/) - `2024` - :books:
 - [Contributing to open source software : AKHQ](https://blogit.michelin.io/michelin-loves-open-source-software-and-we-can-prove-it-2/) - `2024` - :books:
 - [How to 'Kstreamplify' : your new way to develop Kafka Streams application](https://blogit.michelin.io/kstreamplify/) - `2023` - :books:
