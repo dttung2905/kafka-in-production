@@ -13,12 +13,14 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## Table of Contents
 
+1. [Adidas](#adidas)
 1. [Adobe](#adobe)
 1. [Agoda](#agoda)
 1. [Airbnb](#airbnb)
 1. [Allegro](#allegro)
 1. [Apple](#apple)
 1. [AppsFlyer](#appsflyer)
+1. [Bakdata](#bakdata)
 1. [BigCommerce](#bigcommerce)
 1. [Bitpanda](#bitpanda)
 1. [Bloomberg](#bloomberg)
@@ -50,10 +52,13 @@ Curious to know how big companies are operating their kafka fleet in production?
 1. [Morgan Stanley](#morgan-stanley)
 1. [Netflix](#netflix)
 1. [New Relic](#new-relic)
+1. [OpenAI](#openai)
 1. [PayPal](#PayPal)
+1. [Personify Health](#personify-health)
 1. [PhonePe](#PhonePe)
 1. [Pinterest](#pinterest)
 1. [Platformatory](#platformatory)
+1. [PPC Group](#PPC-Group)
 1. [Riskified](#riskified)
 1. [Robinhood](#robinhood)
 1. [Salesforce](#saleforce)
@@ -70,6 +75,11 @@ Curious to know how big companies are operating their kafka fleet in production?
 1. [Zendesk](#zendesk)
 1. [Zopa Bank](#zopa-bank)
 
+## Adidas
+
+- [Kafka Connection Chaos: Surviving the Storm](https://current.confluent.io/post-conference-videos-2025/kafka-connection-chaos-surviving-the-storm-lnd25) - `2025` - :studio_microphone:
+- [From days to seconds: adidas' journey to scalable Kafka self-service](https://current.confluent.io/post-conference-videos-2025/from-days-to-seconds-adidas-journey-to-scalable-kafka-self-service-lnd25) - `2025` - :studio_microphone:
+
 ## Adobe
 
 - [How Adobe Experience Platform Pipeline Became the Cornerstone of In-Flight Processing for Adobe](https://blog.developer.adobe.com/how-adobe-experience-platform-pipeline-became-the-cornerstone-of-in-flight-processing-for-adobe-51c0e0a91521) - `2019` - :books:
@@ -85,6 +95,10 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [Adding Time Lag to Monitor Kafka Consumer](https://medium.com/agoda-engineering/adding-time-lag-to-monitor-kafka-consumer-2c626fa61cfc) - `2021` - :books:
 - [How our data scientists' petabytes of data is ingested into Hadoop (from Kafka)](https://medium.com/agoda-engineering/ingesting-petabytes-of-data-per-week-into-hadoop-from-kafka-457718cc308c) - `2021` - :books:
 
+## Akamai
+
+- [Stream On: From Bottlenecks to Streamline with Kafka Streams Template](https://current.confluent.io/post-conference-videos-2025/stream-on-from-bottlenecks-to-streamline-with-kafka-streams-template-lnd25) - `2025` - :studio_microphone:
+
 ## Airbnb
 
 - [Migrating Kafka transparently between Zookeeper clusters](https://medium.com/airbnb-engineering/migrating-kafka-transparently-between-zookeeper-clusters-e68a75062f65) - `2021` - :books:
@@ -95,6 +109,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## Apple
 
+- [Leave Your Passwords Behind: Embracing mTLS in Kafka](https://current.confluent.io/post-conference-videos-2025/leave-your-passwords-behind-embracing-mtls-in-kafka-lnd25) - `2025` - :studio_microphone:
 - [Leveraging Tiered Storage in Strimzi-Operated Kafka for Cost-Effective Streaming Applications](https://www.confluent.io/events/kafka-summit-london-2024/leveraging-tiered-storage-in-strimzi-operated-kafka-for-cost-effective/) - `2024` - :studio_microphone:
 - [Balance Kafka Cluster with Zero Data Movement](https://www.confluent.io/events/kafka-summit-london-2023/balance-kafka-cluster-with-zero-data-movement/) - `2023` - :studio_microphone:
 - [Experiences Operating Apache Kafka® at Scale](https://www.confluent.io/kafka-summit-ny19/experiences-operating-apache-kafka-at-scale/) - `2019` - :studio_microphone:
@@ -106,6 +121,14 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [Kafka Lag Monitoring For Human Beings](https://www.confluent.io/resources/kafka-summit-2020/kafka-lag-monitoring-for-human-beings/) - `2020` - :studio_microphone:
 - [Apache Kafka Lag Monitoring at AppsFlyer](https://www.confluent.io/blog/kafka-lag-monitoring-and-metrics-at-appsflyer/) - `2020` - :books:
 - [Managing your Kafka in an explosive growth environment](https://www.youtube.com/watch?v=tjjeaCtsw_M) - `2019` - :studio_microphone:
+
+## Bakdata
+
+- [Scaling Semantic Search: Apache Kafka Meets Vector Databases](https://current.confluent.io/post-conference-videos-2025/scaling-semantic-search-apache-kafka-meets-vector-databases-lnd25) - `2025` - :studio_microphone:
+
+## BEC
+
+- [Modernizing Core Banking Platform: Real-Time Data Streaming from Mainframe to Salesforce](https://current.confluent.io/post-conference-videos-2025/modernizing-core-banking-platform-real-time-data-streaming-from-mainframe-to-salesforce-lnd25) - `2025` - :studio_microphone:
 
 ## BigCommerce
 
@@ -232,6 +255,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## LinkedIn
 
+- [Unified Schema Registry: Ensure schema consistency across data systems](https://current.confluent.io/post-conference-videos-2025/unified-schema-registry-ensure-schema-consistency-across-data-systems-lnd25) - `2025` - :studio_microphone:
 - [Load-balanced Brooklin Mirror Maker: Replicating large-scale Kafka clusters at LinkedIn](https://engineering.linkedin.com/blog/2022/load-balanced-brooklin-mirror-maker--replicating-large-scale-kaf) - `2022` - :books:
 - [TopicGC: How LinkedIn cleans up unused metadata for its Kafka clusters](https://engineering.linkedin.com/blog/2022/topicgc_how-linkedin-cleans-up-unused-metadata-for-its-kafka-clu) - `2022` - :books:
 - [How LinkedIn customizes Apache Kafka for 7 trillion messages per day](https://engineering.linkedin.com/blog/2019/apache-kafka-trillion-messages) - `2019` - :books:
@@ -255,6 +279,9 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [How we built a queue on top of Kafka](https://monzo.com/blog/how-we-built-a-queue-on-top-of-kafka) - `2024` - :books:
 
 ## Michelin
+
+- [Massive Kafka Streams Topology Revamp in Production: No Chaos, No Headaches! My Key Takeaways 🦾!](https://current.confluent.io/post-conference-videos-2025/massive-kafka-streams-topology-revamp-in-production-no-chaos-no-headaches-my-key-takeaways-lnd25) - `2025` - :studio_microphone:
+- [Processing Exception Handling and Dead Letter Queue in Kafka Streams](https://current.confluent.io/post-conference-videos-2025/processing-exception-handling-and-dead-letter-queue-in-kafka-streams-lnd25) - `2025` - :studio_microphone:
 - [Optimizing Kafka Streams Joins for Business-Critical Processes](https://current.confluent.io/post-conference-videos-2025/optimizing-kafka-streams-joins-for-business-critical-processes-lnd25) - `2025` - :studio_microphone:
 - [Processing Exception Handling and Dead Letter Queue in Kafka Streams](https://current.confluent.io/post-conference-videos-2025/processing-exception-handling-and-dead-letter-queue-in-kafka-streams-lnd25) - `2025` - :studio_microphone:
 - [Massive Kafka Streams Topology Revamp in Production: No Chaos, No Headaches! My Key Takeaways 🦾!](https://current.confluent.io/post-conference-videos-2025/massive-kafka-streams-topology-revamp-in-production-no-chaos-no-headaches-my-key-takeaways-lnd25) - `2025` - :studio_microphone:
@@ -302,13 +329,24 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [Mitigating Kafka Broker ‘Gray’ Failures For Key Based Partitioners With Partition Multihoming](https://events.bizzabo.com/468544/agenda/session/1136888) - `2023` - :studio_microphone:
 - [Monitoring Apache Kafka for cloud cost reduction](https://newrelic.com/blog/how-to-relic/monitoring-apache-kafka-for-cloud-cost-reduction) - `2023` - :books:
 
+## OpenAI
+
+- [Taming the Kafka Chaos: How OpenAI Simplifies Kafka Consumption](https://current.confluent.io/post-conference-videos-2025/taming-the-kafka-chaos-how-openai-simplifies-kafka-consumption-lnd25) - `2025` - :studio_microphone:
+- [Changing engines mid-flight: Kafka migrations at OpenAI](https://current.confluent.io/post-conference-videos-2025/changing-engines-mid-flight-kafka-migrations-at-openai-lnd25) - `2025` - :studio_microphone:
+- [Building Stream Processing Platform at OpenAI](https://current.confluent.io/post-conference-videos-2025/building-stream-processing-platform-at-openai-lnd25) - `2025` - :studio_microphone:
+
+
 ## Paypal
 
 - [Scaling Kafka to Support PayPal’s Data Growth](https://medium.com/paypal-tech/scaling-kafka-to-support-paypals-data-growth-a0b4da420fab) - `2023` - :books:
 - [Scaling Kafka Consumer for Billions of Events](https://medium.com/paypal-tech/kafka-consumer-benchmarking-c726fbe4000) - `2021` - :books:
 - [Marching Toward a Trillion Kafka Messages per Day: Running Kafka at scale at PayPal](https://www.confluent.io/resources/kafka-summit-2020/marching-toward-a-trillion-kafka-messages-per-day-running-kafka-at-scale-at-paypal/) - `2020` - :studio_microphone:
 
-## Paypal
+## Personify Health
+
+- [Empowering Developers with a Centralized Kafka Library](https://current.confluent.io/post-conference-videos-2025/empowering-developers-with-a-centralized-kafka-library-lnd25) - `2025` - :studio_microphone:
+
+## PhonePe
 
 - [Demystify MirrorMaker2 for DR, at India scale(~ 1 trillion messages a day!) - The PhonePe story](https://current.confluent.io/post-conference-videos-2025/demystify-mirrormaker2-for-dr-at-india-scale-1-trillion-messages-a-day---the-phonepe-story-bng25) - `2025` - :studio_microphone:
 
@@ -324,6 +362,10 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 - [Transforming APIs into an event source with Kafka Streams](https://current.confluent.io/post-conference-videos-2025/transforming-apis-into-an-event-source-with-kafka-streams-bng25) - `2025` - :studio_microphone:
 - [Kafka Latency Analyzer: Get Insights into Per-record, End-to-end Latency](https://events.bizzabo.com/468544/agenda/session/1136921) - `2023` - :studio_microphone:
+
+## PPC Group 
+
+- [Turning the Lights On: How We Unlocked Real-Time Customer Data](https://current.confluent.io/post-conference-videos-2025/turning-the-lights-on-how-we-unlocked-real-time-customer-data-lnd25) - `2025` - :studio_microphone:
 
 ## Riskified
 
@@ -364,6 +406,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## Stripe
 
+- [Kafka Tiered Storage in Production?](https://current.confluent.io/post-conference-videos-2025/kafka-tiered-storage-in-production-lnd25) - `2025` - :studio_microphone:
 - [Mastering Kafka at Scale: Unleashing the Power of Temporal at Stripe | Replay 2023](https://www.youtube.com/watch?v=aF4SHzsxgSc) - `2023` - :studio_microphone:
 - [6 Nines: How Stripe keeps Kafka highly-available across the globe](https://www.confluent.io/events/kafka-summit-london-2022/6-nines-how-stripe-keeps-kafka-highly-available-across-the-globe/) - `2022` - :studio_microphone:
 
