@@ -363,7 +363,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [Transforming APIs into an event source with Kafka Streams](https://current.confluent.io/post-conference-videos-2025/transforming-apis-into-an-event-source-with-kafka-streams-bng25) - `2025` - :studio_microphone:
 - [Kafka Latency Analyzer: Get Insights into Per-record, End-to-end Latency](https://events.bizzabo.com/468544/agenda/session/1136921) - `2023` - :studio_microphone:
 
-## Platformatory
+## PPC Group 
 
 - [Turning the Lights On: How We Unlocked Real-Time Customer Data](https://current.confluent.io/post-conference-videos-2025/turning-the-lights-on-how-we-unlocked-real-time-customer-data-lnd25) - `2025` - :studio_microphone:
 
