@@ -280,6 +280,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## Michelin
 
+- [Kafka Connectors migration feat. Kestra](https://blogit.michelin.io/kafka-connectors-migration-feat-kestra/) - `2025` - :books:
 - [Massive Kafka Streams Topology Revamp in Production: No Chaos, No Headaches! My Key Takeaways 🦾!](https://current.confluent.io/post-conference-videos-2025/massive-kafka-streams-topology-revamp-in-production-no-chaos-no-headaches-my-key-takeaways-lnd25) - `2025` - :studio_microphone:
 - [Processing Exception Handling and Dead Letter Queue in Kafka Streams](https://current.confluent.io/post-conference-videos-2025/processing-exception-handling-and-dead-letter-queue-in-kafka-streams-lnd25) - `2025` - :studio_microphone:
 - [Optimizing Kafka Streams Joins for Business-Critical Processes](https://current.confluent.io/post-conference-videos-2025/optimizing-kafka-streams-joins-for-business-critical-processes-lnd25) - `2025` - :studio_microphone:
