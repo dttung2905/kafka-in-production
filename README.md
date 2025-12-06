@@ -52,6 +52,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 1. [Morgan Stanley](#morgan-stanley)
 1. [Netflix](#netflix)
 1. [New Relic](#new-relic)
+1. [Notion](#notion)
 1. [OpenAI](#openai)
 1. [PayPal](#PayPal)
 1. [Personify Health](#personify-health)
@@ -307,6 +308,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [Consistent, High-throughput, Real-time Calculation Engines Using Kafka Streams](https://www.confluent.io/events/kafka-summit-london-2023/consistent-high-throughput-real-time-calculation-engines-using-kafka-streams/) - `2023` - :studio_microphone:
 
 ## Netflix
+- [Press Play on Data: Netflix's Journey from Streams to Gaming Insights](https://current.confluent.io/post-conference-videos-25/press-play-on-data-netflixs-journey-from-streams-to-gaming-insights-e-nola25) - `2025` - :studio_microphone:
 - [Self-Hosting Kafka at Scale: Netflix's Journey and Challenges](https://current.confluent.io/2024-sessions/self-hosting-kafka-at-scale-netflixs-journey-and-challenges) - `2024` - :studio_microphone:
 - [Featuring Apache Kafka in the Netflix Studio and Finance World](https://www.confluent.io/blog/how-kafka-is-used-by-netflix/) - `2020` - :books:
 - [Inca — Message Tracing and Loss Detection For Streaming Data @Netflix](https://netflixtechblog.medium.com/inca-message-tracing-and-loss-detection-for-streaming-data-netflix-de4836fc38c9) - `2019` - :books:
@@ -329,6 +331,9 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [Go Big or Go Home: Approaching Kafka Replication at Scale](https://www.confluent.io/events/current/2023/go-big-or-go-home-approaching-kafka-replication-at-scale/) - `2023` - :studio_microphone:
 - [Mitigating Kafka Broker ‘Gray’ Failures For Key Based Partitioners With Partition Multihoming](https://events.bizzabo.com/468544/agenda/session/1136888) - `2023` - :studio_microphone:
 - [Monitoring Apache Kafka for cloud cost reduction](https://newrelic.com/blog/how-to-relic/monitoring-apache-kafka-for-cloud-cost-reduction) - `2023` - :books:
+
+## Notion
+- [The evolution of Notion’s event logging stack](https://current.confluent.io/post-conference-videos-25/the-evolution-of-notions-event-logging-stack-e-nola25) - `2025` - :studio_microphone:
 
 ## OpenAI
 
@@ -402,7 +407,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## Slack
 
-- [Building Self-driving Kafka clusters using open source components](https://slack.engineering/building-self-driving-kafka-clusters-using-open-source-components/) - `2022` - :books:
+- [Change Data Capture at Scale: Insights from Slack’s Streaming Pipeline](https://current.confluent.io/post-conference-videos-25/change-data-capture-at-scale-insights-from-slacks-streaming-pipeline-e-nola25) - `2025` - :studio_microphone:
 - [Building Self-driving Kafka clusters using open source components](https://slack.engineering/building-self-driving-kafka-clusters-using-open-source-components/) - `2022` - :books:
 
 ## Stripe
