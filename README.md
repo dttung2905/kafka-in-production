@@ -383,7 +383,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## Robinhood
 - [Robinhood’s Kafka Journey from EC2 to Kubernetes](https://current.confluent.io/2024-sessions/robinhoods-kafka-journey-from-ec2-to-kubernetes) - `2024` - :studio_microphone:
-- [Robinhood’s Kafkaproxy: Decoupling Kafka Consumer Logic from Application Business Logic](https://events.bizzabo.com/468544/agenda/session/1136897) - `2023` - :studio_microphone:
+- [Robinhood’s Kafkaproxy: Decoupling Kafka Consumer Logic from Application Business Logic](https://www.youtube.com/watch?v=TU-qizCRzko) - `2023` - :studio_microphone:
 - [Tackling Kafka, with a Small Team](https://www.confluent.io/kafka-summit-san-francisco-2019/tackling-kafka-with-a-small-team/) - `2019` - :studio_microphone:
 
 ## Salesforce
