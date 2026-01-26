@@ -62,6 +62,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 1. [PPC Group](#PPC-Group)
 1. [Riskified](#riskified)
 1. [Robinhood](#robinhood)
+1. [Reddit](#reddit)
 1. [Salesforce](#saleforce)
 1. [Sharechat](#sharechat)
 1. [Shipocket](#shiprocket)
@@ -385,6 +386,9 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [Robinhood’s Kafka Journey from EC2 to Kubernetes](https://current.confluent.io/2024-sessions/robinhoods-kafka-journey-from-ec2-to-kubernetes) - `2024` - :studio_microphone:
 - [Robinhood’s Kafkaproxy: Decoupling Kafka Consumer Logic from Application Business Logic](https://www.youtube.com/watch?v=TU-qizCRzko) - `2023` - :studio_microphone:
 - [Tackling Kafka, with a Small Team](https://www.confluent.io/kafka-summit-san-francisco-2019/tackling-kafka-with-a-small-team/) - `2019` - :studio_microphone:
+
+## Reddit
+- [Swapping the Engine Mid-Flight: How We Moved Reddit’s Petabyte Scale Kafka Fleet to Kubernetes](https://www.reddit.com/r/RedditEng/comments/1qb03l9/swapping_the_engine_midflight_how_we_moved/) - `2026` - :books:
 
 ## Salesforce
 - [How Apache Kafka Inspired Our Platform Events Architecture](https://engineering.salesforce.com/how-apache-kafka-inspired-our-platform-events-architecture-2f351fe4cf63/) - `2024` - :books:
