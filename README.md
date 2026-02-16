@@ -421,6 +421,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [6 Nines: How Stripe keeps Kafka highly-available across the globe](https://www.confluent.io/events/kafka-summit-london-2022/6-nines-how-stripe-keeps-kafka-highly-available-across-the-globe/) - `2022` - :studio_microphone:
 
 ## Uber
+- [Introducing uFowarder: The Consumer Proxy for Kafka Async Queuing](https://www.uber.com/en-GB/blog/introducing-ufowarder/) - `2026` - :books:
 - [Modernising Kafka at Uber Scale: Upgrading from Legacy to New Hardware SKUs](https://current.confluent.io/post-conference-videos-2025/modernising-kafka-at-uber-scale-upgrading-from-legacy-to-new-hardware-skus-bng25) - `2025` - :studio_microphone:
 - [Inside Uber's Large-Scale Real-Time Analytics Platform](https://current.confluent.io/post-conference-videos-2025/inside-ubers-large-scale-real-time-analytics-platform-bng25) - `2025` - :studio_microphone:
 - [Protobuf Support in Uber's Real-Time Data Stack](https://current.confluent.io/2024-sessions/protobuf-support-in-ubers-real-time-data-stack) - `2024` - :studio_microphone:
