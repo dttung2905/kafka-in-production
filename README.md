@@ -70,6 +70,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 1. [Slack](#slack)
 1. [Stripe](#stripe)
 1. [Uber](#uber)
+1. [Walmart](#walmart)
 1. [Wise](#wise)
 1. [Wix](#wix)
 1. [Yelp](#yelp)
@@ -437,6 +438,10 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [Building Reliable Reprocessing and Dead Letter Queues with Apache Kafka](https://www.uber.com/en-SG/blog/reliable-reprocessing/) - `2018` - :books:
 - [Introducing Chaperone: How Uber Engineering Audits Apache Kafka End-to-End](https://www.uber.com/en-SG/blog/chaperone-audit-kafka-messages/) - `2016` - :books:
 - [uReplicator: Uber Engineering’s Robust Apache Kafka Replicator](https://www.uber.com/blog/ureplicator-apache-kafka-replicator/) - `2016` - :books:
+
+## Walmart
+
+- [Kafka@Walmart](https://www.youtube.com/watch?v=4PZYIuMR3GE&t=136s) - `2026` - :studio_microphone:
 
 ## Wise
 
