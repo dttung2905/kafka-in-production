@@ -13,6 +13,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## Table of Contents
 
+1. [ABN AMRO](#abn-amro)
 1. [Adidas](#adidas)
 1. [Adobe](#adobe)
 1. [Agoda](#agoda)
@@ -28,6 +29,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 1. [Booking.com](#bookingcom)
 1. [Brex](#brex)
 1. [CERN](#cern)
+1. [Cisco](#cisco)
 1. [Cloudflare](#cloudflare)
 1. [Cloudera](#cloudera)
 1. [Coinbase](#coinbase)
@@ -37,6 +39,10 @@ Curious to know how big companies are operating their kafka fleet in production?
 1. [DoorDash](#doordash)
 1. [Decathlon](#decathlon)
 1. [Dream11](#dream11)
+1. [eBay](#ebay)
+1. [E.ON](#eon)
+1. [FanDuel](#fanduel)
+1. [Fidelity](#fidelity)
 1. [GoTo](#goto)
 1. [Grab](#grab)
 1. [HelloFresh](#hellofresh)
@@ -46,6 +52,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 1. [Klarna](#klarna)
 1. [LinkedIn](#linkedin)
 1. [Lyft](#lyft)
+1. [MarketAxess](#marketaxess)
 1. [Michelin](#Michelin)
 1. [Mobile Premier League](#mobile-premier-league)
 1. [Monzo](#Monzo)
@@ -77,6 +84,10 @@ Curious to know how big companies are operating their kafka fleet in production?
 1. [Zalando](#zalando)
 1. [Zendesk](#zendesk)
 1. [Zopa Bank](#zopa-bank)
+
+## ABN AMRO
+
+- [Batch Is Just a Slow Stream: Designing Event-First Pipelines Without Going All-In on Real-Time](https://current.confluent.io/post-conference-videos-26/batch-is-just-a-slow-stream-designing-eventfirst-pipelines-without-going-allin-on-realtime-ldn26) - `2026` - :studio_microphone:
 
 ## Adidas
 
@@ -163,6 +174,10 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 - [CERN IoT Kafka Pipelines](https://www.confluent.io/events/kafka-summit-london-2024/cern-iot-kafka-pipelines/) - `2024` - :studio_microphone:
 
+## Cisco
+
+- [Thinking in Streams: Building Stateful, Serverless Agentic Loops](https://current.confluent.io/post-conference-videos-26/thinking-in-streams-building-stateful-serverless-agentic-loops-ldn26) - `2026` - :studio_microphone:
+
 ## Cloudflare
 
 - [All about Kafka](https://changelog.com/gotime/299) - `2024` - :studio_microphone:
@@ -191,6 +206,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## Datadog
 
+- [From Batch to Real Time: Operating Cassandra CDC with Debezium at Datadog Scale](https://current.confluent.io/post-conference-videos-26/from-batch-to-real-time-operating-cassandra-cdc-with-debezium-at-datadog-scale-ldn26) - `2026` - :studio_microphone:
 - [Running Production Kafka Clusters in Kubernetes](https://www.confluent.io/kafka-summit-lon19/running-production-kafka-clusters-kubernetes/) - `2019` - :studio_microphone:
 
 ## Decathlon
@@ -201,6 +217,22 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 - [Re-engineering Kafka Consumers for 'India Scale': Dream11’s Journey to Processing Millions of Message](https://current.confluent.io/post-conference-videos-2025/re-engineering-kafka-consumers-for-india-scale-dream11s-journey-to-processing-millions-of-message-bng25) - `2025` - :studio_microphone:
 - [Reducing Kafka Producer Cross Network Costs with RackAwareStickyPartitioner](https://current.confluent.io/post-conference-videos-2025/reducing-kafka-producer-cross-network-costs-with-rackawarestickypartitioner-bng25) - `2025` - :studio_microphone:
+
+## eBay
+
+- [Debezium, Apache Kafka, and an Acyclic Synchronization Algorithm](https://current.confluent.io/post-conference-videos-26/debezium-apache-kafka-and-an-acyclic-synchronization-algorithm-ldn26) - `2026` - :studio_microphone:
+
+## E.ON
+
+- [Towards Interoperable Intelligence: Streaming Foundations for Multi‑Agent Systems](https://current.confluent.io/post-conference-videos-26/towards-interoperable-intelligence-streaming-foundations-for-multiagent-systems-ldn26) - `2026` - :studio_microphone:
+
+## FanDuel
+
+- [Chaos to Golden Path - How FanDuel's Eventing Strategy Transformed Enterprise Event Streaming](https://current.confluent.io/post-conference-videos-26/chaos-to-golden-path-how-fanduels-eventing-strategy-transformed-enterprise-event-streaming-ldn26) - `2026` - :studio_microphone:
+
+## Fidelity
+
+- [From Blind Spots to Full Visibility: Kafka Observability with OpenTelemetry](https://current.confluent.io/post-conference-videos-26/from-blind-spots-to-full-visibility-kafka-observability-with-opentelemetry-ldn26) - `2026` - :studio_microphone:
 
 ## Deliveroo
 
@@ -258,6 +290,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## LinkedIn
 
+- [Building Reliable CDC and Kafka Mirroring Pipelines at Trillion-Message Scale](https://current.confluent.io/post-conference-videos-26/building-reliable-cdc-and-kafka-mirroring-pipelines-at-trillionmessage-scale-ldn26) - `2026` - :studio_microphone:
 - [Unified Schema Registry: Ensure schema consistency across data systems](https://current.confluent.io/post-conference-videos-2025/unified-schema-registry-ensure-schema-consistency-across-data-systems-lnd25) - `2025` - :studio_microphone:
 - [Load-balanced Brooklin Mirror Maker: Replicating large-scale Kafka clusters at LinkedIn](https://engineering.linkedin.com/blog/2022/load-balanced-brooklin-mirror-maker--replicating-large-scale-kaf) - `2022` - :books:
 - [TopicGC: How LinkedIn cleans up unused metadata for its Kafka clusters](https://engineering.linkedin.com/blog/2022/topicgc_how-linkedin-cleans-up-unused-metadata-for-its-kafka-clu) - `2022` - :books:
@@ -280,6 +313,10 @@ Curious to know how big companies are operating their kafka fleet in production?
 ## Monzo
 
 - [How we built a queue on top of Kafka](https://monzo.com/blog/how-we-built-a-queue-on-top-of-kafka) - `2024` - :books:
+
+## MarketAxess
+
+- [The "Plug & Play" Lie: Why Your Oracle CDC Pipeline Will Fail](https://current.confluent.io/post-conference-videos-26/the-plug-play-lie-why-your-oracle-cdc-pipeline-will-fail-ldn26) - `2026` - :studio_microphone:
 
 ## Michelin
 
@@ -339,6 +376,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## OpenAI
 
+- [Dynamic Kafka, Static Sleep: Taming Multi-Cluster Streams with Flink at OpenAI](https://current.confluent.io/post-conference-videos-26/dynamic-kafka-static-sleep-taming-multicluster-streams-with-flink-at-openai-ldn26) - `2026` - :studio_microphone:
 - [Taming the Kafka Chaos: How OpenAI Simplifies Kafka Consumption](https://current.confluent.io/post-conference-videos-2025/taming-the-kafka-chaos-how-openai-simplifies-kafka-consumption-lnd25) - `2025` - :studio_microphone:
 - [Changing engines mid-flight: Kafka migrations at OpenAI](https://current.confluent.io/post-conference-videos-2025/changing-engines-mid-flight-kafka-migrations-at-openai-lnd25) - `2025` - :studio_microphone:
 - [Building Stream Processing Platform at OpenAI](https://current.confluent.io/post-conference-videos-2025/building-stream-processing-platform-at-openai-lnd25) - `2025` - :studio_microphone:
@@ -455,6 +493,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## Wix
 
+- [Life in the Slow Lane: Cost-Efficient Streaming Through Latency Tiering](https://current.confluent.io/post-conference-videos-26/life-in-the-slow-lane-costefficient-streaming-through-latency-tiering-ldn26) - `2026` - :studio_microphone:
 - [4 Steps for Kafka Rebalance - Notes From the Field](https://www.wix.engineering/post/4-steps-for-kafka-rebalance-notes-from-the-field) - `2021` - :books:
 - [Wix’s Journey Into Data Streams](https://www.wix.engineering/post/wix-s-journey-into-data-streams) - `2021` - :books:
 - [Building a High-level SDK for Kafka: Greyhound Unleashed](https://www.wix.engineering/post/building-a-high-level-sdk-for-kafka-greyhound-unleashed) - `2020` - :books:
