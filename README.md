@@ -271,6 +271,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## Honeycomb
 
+- [Transforming How We Run Kafka at Honeycomb](https://www.honeycomb.io/blog/transforming-how-we-run-kafka-honeycomb) - `2026` - :books:
 - [Scaling Telemetry Systems with Streaming](https://www.usenix.org/conference/srecon23americas/presentation/fong-jones) - `2023` - :studio_microphone:
 - [Lessons Learned From the Migration to Confluent Kafka](https://www.honeycomb.io/blog/kafka-migration-lessons-learned) - `2021` - :books:
 - [Scaling Kafka at Honeycomb](https://www.honeycomb.io/blog/scaling-kafka-observability-pipelines) - `2021` - :books:
