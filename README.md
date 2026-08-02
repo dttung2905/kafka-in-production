@@ -21,6 +21,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 1. [Allegro](#allegro)
 1. [Apple](#apple)
 1. [AppsFlyer](#appsflyer)
+1. [Atlassian](#atlassian)
 1. [Bakdata](#bakdata)
 1. [BigCommerce](#bigcommerce)
 1. [Bitpanda](#bitpanda)
@@ -135,6 +136,9 @@ Curious to know how big companies are operating their kafka fleet in production?
 - [Kafka Lag Monitoring For Human Beings](https://www.confluent.io/resources/kafka-summit-2020/kafka-lag-monitoring-for-human-beings/) - `2020` - :studio_microphone:
 - [Apache Kafka Lag Monitoring at AppsFlyer](https://www.confluent.io/blog/kafka-lag-monitoring-and-metrics-at-appsflyer/) - `2020` - :books:
 - [Managing your Kafka in an explosive growth environment](https://www.youtube.com/watch?v=tjjeaCtsw_M) - `2019` - :studio_microphone:
+
+## Atlassian
+- [Scaling StreamHub: Transitioning from Kinesis to Kafka for 145 Billion Daily Events](https://www.atlassian.com/blog/how-we-build/scaling-streamhub-transitioning-from-kinesis-to-kafka-for-145-billion-daily-events) - `2026` - :books:
 
 ## Bakdata
 
@@ -321,6 +325,8 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## Michelin
 
+- [Dead Letter Queue in Kafka Streams (KIP-1034)](https://blogit.michelin.io/dead-letter-queue-in-kafka-streams-kip-1034/) - `2026` - :books:
+- [Kafka Consumption, Made Simple and Safe](https://blogit.michelin.io/kafka-consumption-made-simple-and-safe/) - `2026` - :books:
 - [Kafka Connectors migration feat. Kestra](https://blogit.michelin.io/kafka-connectors-migration-feat-kestra/) - `2025` - :books:
 - [Massive Kafka Streams Topology Revamp in Production: No Chaos, No Headaches! My Key Takeaways 🦾!](https://current.confluent.io/post-conference-videos-2025/massive-kafka-streams-topology-revamp-in-production-no-chaos-no-headaches-my-key-takeaways-lnd25) - `2025` - :studio_microphone:
 - [Processing Exception Handling and Dead Letter Queue in Kafka Streams](https://current.confluent.io/post-conference-videos-2025/processing-exception-handling-and-dead-letter-queue-in-kafka-streams-lnd25) - `2025` - :studio_microphone:
