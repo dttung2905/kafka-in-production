@@ -68,6 +68,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 1. [Pinterest](#pinterest)
 1. [Platformatory](#platformatory)
 1. [PPC Group](#PPC-Group)
+1. [ReversingLabs](#reversinglabs)
 1. [Riskified](#riskified)
 1. [Robinhood](#robinhood)
 1. [Reddit](#reddit)
@@ -419,6 +420,10 @@ Curious to know how big companies are operating their kafka fleet in production?
 ## PPC Group 
 
 - [Turning the Lights On: How We Unlocked Real-Time Customer Data](https://current.confluent.io/post-conference-videos-2025/turning-the-lights-on-how-we-unlocked-real-time-customer-data-lnd25) - `2025` - :studio_microphone:
+
+## ReversingLabs
+
+- [How to Search Through 800 Billion Records in Real Time [PyCon DE & PyData 2026]](https://www.youtube.com/watch?v=t0ZWNh-UXDs&t=1204s) - `2026` - :studio_microphones:
 
 ## Riskified
 
