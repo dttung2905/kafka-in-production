@@ -169,6 +169,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## Booking.com
 
+- [How We Built Automated Capacity Testing for Kafka Consumers](https://medium.com/booking-com-development/how-we-built-automated-capacity-testing-for-kafka-consumers-1853623bce78) - `2026` - :books:
 - [Data Streaming Ecosystem Management at Booking.com](https://www.confluent.io/kafka-summit-sf18/data-streaming-ecosystem-management/) - `2018` - :books:
 
 ## Brex
