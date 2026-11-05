@@ -441,6 +441,7 @@ Curious to know how big companies are operating their kafka fleet in production?
 
 ## Reddit
 - [Swapping the Engine Mid-Flight: How We Moved Reddit’s Petabyte Scale Kafka Fleet to Kubernetes](https://www.reddit.com/r/RedditEng/comments/1qb03l9/swapping_the_engine_midflight_how_we_moved/) - `2026` - :books:
+- [One More Nine: Kafka Availability During Rolling Restarts](https://www.reddit.com/r/RedditEng/comments/1xnu8t4/one_more_nine_kafka_availability_during_rolling/) - `2026` - :books:
 
 ## Salesforce
 - [How Apache Kafka Inspired Our Platform Events Architecture](https://engineering.salesforce.com/how-apache-kafka-inspired-our-platform-events-architecture-2f351fe4cf63/) - `2024` - :books:
